@@ -1,0 +1,1756 @@
+﻿Log file open, 04/08/19 21:32:28
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GroupProjRacer
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.307842
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.303s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 960
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.09-01.32.29:041][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.09-01.32.29:041][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.09-01.32.29:041][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Engine.ini]
+[2019.04.09-01.32.29:041][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.09-01.32.29:041][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Engine.ini]
+[2019.04.09-01.32.29:041][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Engine.ini]
+[2019.04.09-01.32.29:041][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.09-01.32.29:041][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.09-01.32.29:041][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.09-01.32.29:041][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.09-01.32.29:041][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.09-01.32.29:041][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.09-01.32.29:041][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.09-01.32.29:041][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.09-01.32.29:041][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.09-01.32.29:041][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.09-01.32.29:041][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.09-01.32.29:041][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.09-01.32.29:041][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.09-01.32.29:041][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Engine.ini]
+[2019.04.09-01.32.29:041][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.09-01.32.29:041][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.09-01.32.29:042][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.09-01.32.29:042][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.09-01.32.29:042][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.09-01.32.29:042][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.09-01.32.29:042][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.04.09-01.32.29:042][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.09-01.32.29:042][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.09-01.32.29:042][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.04.09-01.32.29:042][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.09-01.32.29:042][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.09-01.32.29:042][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.09-01.32.29:042][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.09-01.32.29:042][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Engine.ini]
+[2019.04.09-01.32.29:042][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Engine.ini]
+[2019.04.09-01.32.29:048][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Scalability.ini]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Scalability.ini]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Scalability.ini]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Scalability.ini]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Scalability.ini]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.09-01.32.29:048][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.09-01.32.29:049][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Scalability.ini]
+[2019.04.09-01.32.29:049][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.09-01.32.29:049][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.09-01.32.29:049][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.09-01.32.29:049][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.09-01.32.29:049][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.09-01.32.29:049][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.09-01.32.29:049][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.09-01.32.29:049][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.09-01.32.29:049][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.09-01.32.29:049][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.09-01.32.29:049][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.09-01.32.29:049][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.09-01.32.29:049][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.09-01.32.29:049][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Scalability.ini]
+[2019.04.09-01.32.29:049][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.09-01.32.29:049][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.09-01.32.29:049][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.09-01.32.29:049][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.09-01.32.29:070][  0]LogHAL: Display: Platform has ~ 8 GB [8539336704 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.09-01.32.29:070][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.04.09-01.32.29:070][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.09-01.32.29:070][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Scalability.ini]
+[2019.04.09-01.32.29:070][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.09-01.32.29:070][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Scalability.ini]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Scalability.ini]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Scalability.ini]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Scalability.ini]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Scalability.ini]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Scalability.ini]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.09-01.32.29:071][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.09-01.32.29:072][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.09-01.32.29:072][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Engine.ini]
+[2019.04.09-01.32.29:072][  0]LogInit: Computer: YOO-DESKTOP
+[2019.04.09-01.32.29:072][  0]LogInit: User: Steven
+[2019.04.09-01.32.29:072][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.09-01.32.29:072][  0]LogInit: High frequency timer resolution =3.906252 MHz
+[2019.04.09-01.32.29:072][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.04.09-01.32.29:072][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.09-01.32.29:072][  0]LogMemory: Process Physical Memory: 101.95 MB used, 101.95 MB peak
+[2019.04.09-01.32.29:072][  0]LogMemory: Process Virtual Memory: 91.34 MB used, 91.34 MB peak
+[2019.04.09-01.32.29:072][  0]LogMemory: Physical Memory: 4161.24 MB used,  3982.50 MB free, 8143.75 MB total
+[2019.04.09-01.32.29:072][  0]LogMemory: Virtual Memory: 4647.96 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.04.09-01.32.29:110][  0]LogInit: Using OS detected language (en-US).
+[2019.04.09-01.32.29:110][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.09-01.32.29:111][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.09-01.32.29:488][  0]LogStreaming: Display: Took  0.378s to InitEngineTextLocalization.
+[2019.04.09-01.32.29:488][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.09-01.32.29:527][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.09-01.32.29:527][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.09-01.32.29:844][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.09-01.32.29:844][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.09-01.32.29:902][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2019.04.09-01.32.29:903][  0]LogD3D11RHI:       4053/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.04.09-01.32.29:905][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.09-01.32.29:905][  0]LogD3D11RHI:       0/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.09-01.32.29:905][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.09-01.32.29:913][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.09-01.32.29:913][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.09-01.32.29:913][  0]LogWindows: EnumDisplayDevices:
+[2019.04.09-01.32.29:914][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.04.09-01.32.29:914][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2019.04.09-01.32.29:915][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:1)
+[2019.04.09-01.32.29:916][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.04.09-01.32.29:916][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.04.09-01.32.29:917][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2019.04.09-01.32.29:917][  0]LogD3D11RHI:   Driver Version: 397.44 (internal:24.21.13.9744, unified:397.44)
+[2019.04.09-01.32.29:917][  0]LogD3D11RHI:      Driver Date: 4-26-2018
+[2019.04.09-01.32.29:917][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2019.04.09-01.32.29:949][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.09-01.32.29:966][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.04.09-01.32.30:372][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.09-01.32.30:385][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.09-01.32.30:397][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.09-01.32.30:410][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.09-01.32.30:423][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.09-01.32.30:436][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.09-01.32.30:449][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.09-01.32.30:461][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.09-01.32.30:468][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.09-01.32.30:536][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-01.32.30:536][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-01.32.30:536][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-01.32.30:536][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-01.32.30:536][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-01.32.30:536][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-01.32.30:536][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-01.32.30:536][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-01.32.30:536][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-01.32.30:536][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-01.32.30:536][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-01.32.30:536][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-01.32.30:536][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-01.32.30:536][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-01.32.30:536][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-01.32.30:536][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-01.32.30:536][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-01.32.30:536][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-01.32.30:539][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.09-01.32.30:601][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.09-01.32.30:601][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.09-01.32.30:670][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.09-01.32.30:670][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.09-01.32.30:698][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.09-01.32.30:726][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.09-01.32.30:747][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.09-01.32.30:765][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.09-01.32.30:809][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.09-01.32.30:809][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.09-01.32.30:809][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.09-01.32.30:902][  0]LogShaderCompilers: Guid format shader working directory is 16 characters bigger than the processId version (D:/Repo/VR-Storytelling-Unreal/Intermediate/Shaders/WorkingDirectory/12776/).
+[2019.04.09-01.32.30:903][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Steven/AppData/Local/Temp/UnrealShaderWorkingDir/3CA4DBBA406C42EC9483249FCA4DF244/'.
+[2019.04.09-01.32.30:906][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.09-01.32.30:906][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.09-01.32.30:906][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.09-01.32.31:383][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.09-01.32.31:478][  0]LogDerivedDataCache: Loaded boot cache 0.09s 71MB C:/Users/Steven/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.09-01.32.31:478][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Steven/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.04.09-01.32.31:478][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Repo/VR-Storytelling-Unreal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.09-01.32.31:478][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.09-01.32.31:479][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Repo/VR-Storytelling-Unreal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.09-01.32.31:479][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.09-01.32.31:517][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.09-01.32.31:517][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.09-01.32.31:517][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.09-01.32.31:531][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Steven/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.09-01.32.31:531][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.09-01.32.31:531][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.09-01.32.31:600][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.09-01.32.31:604][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.09-01.32.31:606][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.09-01.32.31:710][  0]LogAssetRegistry: FAssetRegistry took 0.0327 seconds to start up
+[2019.04.09-01.32.32:024][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.09-01.32.32:194][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.09-01.32.32:200][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.09-01.32.32:200][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.09-01.32.32:200][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.09-01.32.32:200][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.09-01.32.32:216][  0]LogNetVersion: GroupProjRacer 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 726259045)
+[2019.04.09-01.32.32:696][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.067255 seconds
+[2019.04.09-01.32.32:702][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.04.09-01.32.32:702][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.04.09-01.32.32:702][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.09-01.32.33:721][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.09-01.32.33:734][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.09-01.32.34:560][  0]SourceControl: Source control is disabled
+[2019.04.09-01.32.34:560][  0]SourceControl: Source control is disabled
+[2019.04.09-01.32.34:563][  0]SourceControl: Source control is disabled
+[2019.04.09-01.32.34:564][  0]SourceControl: Source control is disabled
+[2019.04.09-01.32.34:780][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.09-01.32.34:843][  0]LogOcInput: OculusInput pre-init called
+[2019.04.09-01.32.34:987][  0]LogEngine: Initializing Engine...
+[2019.04.09-01.32.34:988][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.09-01.32.34:989][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.09-01.32.34:989][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.09-01.32.34:989][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.09-01.32.34:989][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.09-01.32.35:208][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.09-01.32.35:226][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.09-01.32.35:247][  0]LogInit: No audio devices found!
+[2019.04.09-01.32.35:247][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.09-01.32.35:335][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/Steven/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.09-01.32.35:335][  0]LogInit: Texture streaming: Enabled
+[2019.04.09-01.32.35:382][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.09-01.32.35:404][  0]LogInit: Transaction tracking system initialized
+[2019.04.09-01.32.35:440][  0]BlueprintLog: New page: Editor Load
+[2019.04.09-01.32.35:544][  0]LocalizationService: Localization service is disabled
+[2019.04.09-01.32.36:024][  0]LogFileCache: Scanning file cache for directory 'D:/Repo/VR-Storytelling-Unreal/Content/' took 0.03s
+[2019.04.09-01.32.36:024][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.09-01.32.36:024][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.09-01.32.36:024][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.09-01.32.36:024][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.09-01.32.36:024][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.09-01.32.36:024][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.09-01.32.36:024][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.09-01.32.36:181][  0]SourceControl: Source control is disabled
+[2019.04.09-01.32.36:182][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.09-01.32.36:182][  0]LightingResults: New page: Lighting Build
+[2019.04.09-01.32.36:186][  0]MapCheck: New page: Map Check
+[2019.04.09-01.32.36:186][  0]LightingResults: New page: Lighting Build
+[2019.04.09-01.32.36:338][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.09-01.32.36:343][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.09-01.32.36:366][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.09-01.32.36:366][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.093ms to complete.
+[2019.04.09-01.32.36:366][  0]LogFileHelpers: Loading map 'Template_Default' took 0.184
+[2019.04.09-01.32.36:552][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.09-01.32.36:562][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.09-01.32.36:570][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.09-01.32.36:578][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.09-01.32.36:593][  0]LogCollectionManager: Loaded 0 collections in 0.003350 seconds
+[2019.04.09-01.32.36:628][  0]LogFileCache: Scanning file cache for directory 'D:/Repo/VR-Storytelling-Unreal/Saved/Collections/' took 0.01s
+[2019.04.09-01.32.36:628][  0]LogFileCache: Scanning file cache for directory 'D:/Repo/VR-Storytelling-Unreal/Content/Developers/Steven/Collections/' took 0.00s
+[2019.04.09-01.32.36:628][  0]LogFileCache: Scanning file cache for directory 'D:/Repo/VR-Storytelling-Unreal/Content/Collections/' took 0.00s
+[2019.04.09-01.32.36:629][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.04.09-01.32.36:647][  0]LogContentBrowser: Native class hierarchy populated in 0.0165 seconds. Added 2651 classes and 620 folders.
+[2019.04.09-01.32.36:676][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.04.09-01.32.36:683][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-01.32.36:688][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-01.32.36:690][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-01.32.36:692][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-01.32.36:694][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-01.32.36:695][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-01.32.36:697][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-01.32.36:699][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-01.32.36:701][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-01.32.36:703][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-01.32.36:705][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-01.32.36:707][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-01.32.36:708][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-01.32.36:710][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-01.32.36:712][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-01.32.36:714][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-01.32.36:716][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-01.32.36:718][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-01.32.36:719][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-01.32.36:721][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-01.32.36:723][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-01.32.36:725][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-01.32.36:727][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-01.32.36:729][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-01.32.36:731][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-01.32.36:732][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-01.32.36:825][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.09-01.32.36:837][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.04.09-01.32.36:888][  0]LogSlate: Took 0.000274 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.09-01.32.36:890][  0]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.09-01.32.36:897][  0]LogSlate: Took 0.000742 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.09-01.32.36:984][  0]LogRenderer: Reallocating scene render targets to support 1056x556 Format 10 NumSamples 1 (Frame:1).
+[2019.04.09-01.32.37:155][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.09-01.32.37:198][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.04.09-01.32.37:237][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.04.09-01.32.37:237][  0]LogLoad: (Engine Initialization) Total time: 11.42 seconds
+[2019.04.09-01.32.37:237][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.09-01.32.37:346][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.09-01.32.37:410][  0]LogSlate: Took 0.001298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.09-01.32.37:560][  2]LogAssetRegistry: Asset discovery search completed in 5.8722 seconds
+[2019.04.09-01.32.37:563][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.04.09-01.32.37:563][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000100 seconds (updated 0 objects)
+[2019.04.09-01.32.53:783][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-02.23.21:143][ 88]LogSlate: Took 0.000833 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.09-02.23.38:898][ 89]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Structure_Wall_Door.obj)
+[2019.04.09-02.23.38:936][ 89]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Structure_Wall_Door.obj
+[2019.04.09-02.23.38:952][ 89]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.23.40:726][ 89]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.23.41:174][ 89]LogMaterial: Display: Missing cached shader map for material Brass, compiling. 
+[2019.04.09-02.23.41:259][ 89]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.09-02.23.41:259][ 89]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.09-02.23.41:259][ 89]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.09-02.23.41:265][ 89]LogStaticMesh: Building static mesh Structure_Wall_Door_object1...
+[2019.04.09-02.23.41:292][ 89]LogStaticMesh: Built static mesh [0.03s] /Game/Structure_Wall_Door_object1.Structure_Wall_Door_object1
+[2019.04.09-02.23.41:373][ 89]LogStaticMesh: Building static mesh Structure_Wall_Door_object2...
+[2019.04.09-02.23.41:386][ 89]LogStaticMesh: Built static mesh [0.01s] /Game/Structure_Wall_Door_object2.Structure_Wall_Door_object2
+[2019.04.09-02.23.41:394][ 89]LogStaticMesh: Building static mesh Structure_Wall_Door_object3...
+[2019.04.09-02.23.41:403][ 89]LogStaticMesh: Built static mesh [0.01s] /Game/Structure_Wall_Door_object3.Structure_Wall_Door_object3
+[2019.04.09-02.23.41:417][ 89]LogMaterial: Display: Missing cached shader map for material White, compiling. 
+[2019.04.09-02.23.41:433][ 89]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.09-02.23.41:438][ 89]LogStaticMesh: Building static mesh Structure_Wall_Door_object4...
+[2019.04.09-02.23.41:503][ 89]LogStaticMesh: Built static mesh [0.07s] /Game/Structure_Wall_Door_object4.Structure_Wall_Door_object4
+[2019.04.09-02.23.41:511][ 89]LogStaticMesh: Building static mesh Structure_Wall_Door_object5...
+[2019.04.09-02.23.41:515][ 89]LogStaticMesh: Built static mesh [0.01s] /Game/Structure_Wall_Door_object5.Structure_Wall_Door_object5
+[2019.04.09-02.23.41:517][ 89]LogPhysics: Warning: Failed to cook TriMesh: /Game/Structure_Wall_Door_object5.Structure_Wall_Door_object5.
+[2019.04.09-02.23.41:517][ 89]LogPhysics: Warning: Attempt to build physics data for /Game/Structure_Wall_Door_object5.Structure_Wall_Door_object5:BodySetup_0 when we are unable to.
+[2019.04.09-02.23.41:519][ 89]LogPhysics: Warning: Failed to cook TriMesh: /Game/Structure_Wall_Door_object5.Structure_Wall_Door_object5.
+[2019.04.09-02.23.41:519][ 89]LogPhysics: Warning: Attempt to build physics data for /Game/Structure_Wall_Door_object5.Structure_Wall_Door_object5:BodySetup_0 when we are unable to.
+[2019.04.09-02.23.42:256][104]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.09-02.23.44:014][153]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.09-02.23.45:338][194]LogActorFactory: Actor Factory created Structure_Wall_Door_object1
+[2019.04.09-02.23.46:437][230]LogActorFactory: Actor Factory created Structure_Wall_Door_object1
+[2019.04.09-02.23.47:627][270]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.09-02.23.47:672][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Temp/Untitled_1" FILE="D:/Repo/VR-Storytelling-Unreal/Saved/Autosaves/Temp/Untitled_1_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2019.04.09-02.23.47:717][270]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Untitled_1_Auto16AB13EC54DA951FCB717669C51518736.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2019.04.09-02.23.47:720][270]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.072
+[2019.04.09-02.23.47:720][270]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.072
+[2019.04.09-02.23.47:749][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Structure_Wall_Door_object1] ([1] browsable assets)...
+[2019.04.09-02.23.47:763][270]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Structure_Wall_Door_object1.Structure_Wall_Door_object1]
+[2019.04.09-02.23.47:763][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/Structure_Wall_Door_object1]
+[2019.04.09-02.23.47:763][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Structure_Wall_Door_object1" FILE="D:/Repo/VR-Storytelling-Unreal/Saved/Autosaves/Game/Structure_Wall_Door_object1_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.04.09-02.23.47:774][270]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Structure_Wall_Door_object1_Auto0990CB3C4314605E94F7C0B9E555592E.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Saved/Autosaves/Game/Structure_Wall_Door_object1_Auto1.uasset'
+[2019.04.09-02.23.47:775][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Brass] ([1] browsable assets)...
+[2019.04.09-02.23.47:788][270]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Brass.Brass]
+[2019.04.09-02.23.47:788][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/Brass]
+[2019.04.09-02.23.47:788][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Brass" FILE="D:/Repo/VR-Storytelling-Unreal/Saved/Autosaves/Game/Brass_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.04.09-02.23.47:797][270]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Brass_Auto1226B250E439EED8D5F6EA7814D5A949F.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Saved/Autosaves/Game/Brass_Auto1.uasset'
+[2019.04.09-02.23.47:798][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Structure_Wall_Door_object2] ([1] browsable assets)...
+[2019.04.09-02.23.47:810][270]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Structure_Wall_Door_object2.Structure_Wall_Door_object2]
+[2019.04.09-02.23.47:810][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/Structure_Wall_Door_object2]
+[2019.04.09-02.23.47:810][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Structure_Wall_Door_object2" FILE="D:/Repo/VR-Storytelling-Unreal/Saved/Autosaves/Game/Structure_Wall_Door_object2_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.04.09-02.23.47:820][270]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Structure_Wall_Door_object2_AutoEEF47FF14F863DE9A4D44D928BF671A6.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Saved/Autosaves/Game/Structure_Wall_Door_object2_Auto1.uasset'
+[2019.04.09-02.23.47:821][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Structure_Wall_Door_object3] ([1] browsable assets)...
+[2019.04.09-02.23.47:833][270]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Structure_Wall_Door_object3.Structure_Wall_Door_object3]
+[2019.04.09-02.23.47:833][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/Structure_Wall_Door_object3]
+[2019.04.09-02.23.47:833][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Structure_Wall_Door_object3" FILE="D:/Repo/VR-Storytelling-Unreal/Saved/Autosaves/Game/Structure_Wall_Door_object3_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.04.09-02.23.47:852][270]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Structure_Wall_Door_object3_AutoB430C9D444F20935559AD7B03674E327.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Saved/Autosaves/Game/Structure_Wall_Door_object3_Auto1.uasset'
+[2019.04.09-02.23.47:854][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Structure_Wall_Door_object4] ([1] browsable assets)...
+[2019.04.09-02.23.47:876][270]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Structure_Wall_Door_object4.Structure_Wall_Door_object4]
+[2019.04.09-02.23.47:876][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/Structure_Wall_Door_object4]
+[2019.04.09-02.23.47:876][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Structure_Wall_Door_object4" FILE="D:/Repo/VR-Storytelling-Unreal/Saved/Autosaves/Game/Structure_Wall_Door_object4_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.04.09-02.23.47:898][270]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Structure_Wall_Door_object4_Auto9ECB8E814151FBF00FC5A2B9262D9D76.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Saved/Autosaves/Game/Structure_Wall_Door_object4_Auto1.uasset'
+[2019.04.09-02.23.47:900][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/White] ([1] browsable assets)...
+[2019.04.09-02.23.47:922][270]OBJ SavePackage:     Rendered thumbnail for [Material /Game/White.White]
+[2019.04.09-02.23.47:922][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/White]
+[2019.04.09-02.23.47:924][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/White" FILE="D:/Repo/VR-Storytelling-Unreal/Saved/Autosaves/Game/White_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.04.09-02.23.47:936][270]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/White_Auto14CD7695E45853F07A82B85A2860A8719.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Saved/Autosaves/Game/White_Auto1.uasset'
+[2019.04.09-02.23.47:937][270]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Structure_Wall_Door_object5] ([1] browsable assets)...
+[2019.04.09-02.23.47:951][270]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Structure_Wall_Door_object5.Structure_Wall_Door_object5]
+[2019.04.09-02.23.47:951][270]OBJ SavePackage: Finished generating thumbnails for package [/Game/Structure_Wall_Door_object5]
+[2019.04.09-02.23.47:951][270]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Structure_Wall_Door_object5" FILE="D:/Repo/VR-Storytelling-Unreal/Saved/Autosaves/Game/Structure_Wall_Door_object5_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.04.09-02.23.47:961][270]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Structure_Wall_Door_object5_AutoD4809C3C4C1D24B6A324849C3673E359.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Saved/Autosaves/Game/Structure_Wall_Door_object5_Auto1.uasset'
+[2019.04.09-02.23.47:962][270]LogFileHelpers: Auto-saving content packages took 0.239
+[2019.04.09-02.23.49:260][317]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-02.23.59:549][668]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.09-02.24.05:073][857]AssetReimport: New page: Outstanding source content changes 6:24:05 PM
+[2019.04.09-02.24.05:083][858]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/bed-king.fbx)
+[2019.04.09-02.24.05:095][858]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/bed-king.fbx
+[2019.04.09-02.24.05:104][858]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.06:507][858]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.06:524][858]LogStaticMesh: Building static mesh bed-king_pillow_L...
+[2019.04.09-02.24.06:524][858]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/bed-king_pillow_L.bed-king_pillow_L
+[2019.04.09-02.24.06:533][858]LogStaticMesh: Building static mesh bed-king_mattress_R...
+[2019.04.09-02.24.06:534][858]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/bed-king_mattress_R.bed-king_mattress_R
+[2019.04.09-02.24.06:540][858]LogStaticMesh: Building static mesh bed-king_mattress_L...
+[2019.04.09-02.24.06:540][858]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/bed-king_mattress_L.bed-king_mattress_L
+[2019.04.09-02.24.06:550][858]LogStaticMesh: Building static mesh bed-king_sheet...
+[2019.04.09-02.24.06:550][858]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/bed-king_sheet.bed-king_sheet
+[2019.04.09-02.24.06:557][858]LogStaticMesh: Building static mesh bed-king_pillow_R...
+[2019.04.09-02.24.06:558][858]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/bed-king_pillow_R.bed-king_pillow_R
+[2019.04.09-02.24.06:581][858]LogStaticMesh: Building static mesh bed-king_bed...
+[2019.04.09-02.24.06:583][858]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/bed-king_bed.bed-king_bed
+[2019.04.09-02.24.06:630][859]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/bed-single.fbx)
+[2019.04.09-02.24.06:639][859]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/bed-single.fbx
+[2019.04.09-02.24.06:644][859]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.07:124][859]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.07:143][859]LogStaticMesh: Building static mesh bed-single_sheet...
+[2019.04.09-02.24.07:143][859]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/bed-single_sheet.bed-single_sheet
+[2019.04.09-02.24.07:152][859]LogStaticMesh: Building static mesh bed-single_mattress...
+[2019.04.09-02.24.07:152][859]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/bed-single_mattress.bed-single_mattress
+[2019.04.09-02.24.07:176][859]LogStaticMesh: Building static mesh bed-single_bed...
+[2019.04.09-02.24.07:177][859]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/bed-single_bed.bed-single_bed
+[2019.04.09-02.24.07:204][860]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/chair-2.fbx)
+[2019.04.09-02.24.07:212][860]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/chair-2.fbx
+[2019.04.09-02.24.07:218][860]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.07:482][860]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.07:517][860]LogStaticMesh: Building static mesh chair-2...
+[2019.04.09-02.24.07:519][860]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/chair-2.chair-2
+[2019.04.09-02.24.07:546][861]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/chair-alt.fbx)
+[2019.04.09-02.24.07:555][861]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/chair-alt.fbx
+[2019.04.09-02.24.07:560][861]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.07:769][861]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.07:798][861]LogStaticMesh: Building static mesh chair-alt...
+[2019.04.09-02.24.07:799][861]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/chair-alt.chair-alt
+[2019.04.09-02.24.07:823][862]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/chair-cafe.fbx)
+[2019.04.09-02.24.07:832][862]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/chair-cafe.fbx
+[2019.04.09-02.24.07:838][862]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.08:074][862]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.08:091][862]LogStaticMesh: Building static mesh chair-cafe_cushion...
+[2019.04.09-02.24.08:092][862]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/chair-cafe_cushion.chair-cafe_cushion
+[2019.04.09-02.24.08:110][862]LogStaticMesh: Building static mesh chair-cafe_chair...
+[2019.04.09-02.24.08:111][862]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/chair-cafe_chair.chair-cafe_chair
+[2019.04.09-02.24.08:138][863]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/chair-rest.fbx)
+[2019.04.09-02.24.08:148][863]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/chair-rest.fbx
+[2019.04.09-02.24.08:153][863]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.08:359][863]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.08:380][863]LogStaticMesh: Building static mesh chair-rest_mattress...
+[2019.04.09-02.24.08:381][863]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/chair-rest_mattress.chair-rest_mattress
+[2019.04.09-02.24.08:402][863]LogStaticMesh: Building static mesh chair-rest_support...
+[2019.04.09-02.24.08:403][863]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/chair-rest_support.chair-rest_support
+[2019.04.09-02.24.08:427][864]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/chair-rock.fbx)
+[2019.04.09-02.24.08:436][864]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/chair-rock.fbx
+[2019.04.09-02.24.08:441][864]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.08:675][864]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.08:712][864]LogStaticMesh: Building static mesh chair-rock...
+[2019.04.09-02.24.08:713][864]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/chair-rock.chair-rock
+[2019.04.09-02.24.08:737][865]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/chair.fbx)
+[2019.04.09-02.24.08:745][865]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/chair.fbx
+[2019.04.09-02.24.08:751][865]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.08:973][865]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.09:015][865]LogStaticMesh: Building static mesh chair...
+[2019.04.09-02.24.09:017][865]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/chair.chair
+[2019.04.09-02.24.09:043][866]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/cupboard-kitchen.fbx)
+[2019.04.09-02.24.09:052][866]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/cupboard-kitchen.fbx
+[2019.04.09-02.24.09:058][866]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.09:272][866]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.09:334][866]LogStaticMesh: Building static mesh cupboard-kitchen...
+[2019.04.09-02.24.09:337][866]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/cupboard-kitchen.cupboard-kitchen
+[2019.04.09-02.24.09:365][867]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/cupboard-open.fbx)
+[2019.04.09-02.24.09:375][867]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/cupboard-open.fbx
+[2019.04.09-02.24.09:380][867]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.09:638][867]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.09:715][867]LogStaticMesh: Building static mesh cupboard-open...
+[2019.04.09-02.24.09:719][867]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/dist/fbx/cupboard-open.cupboard-open
+[2019.04.09-02.24.09:747][868]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/cupboard-slide.fbx)
+[2019.04.09-02.24.09:756][868]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/cupboard-slide.fbx
+[2019.04.09-02.24.09:761][868]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.09:969][868]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.10:037][868]LogStaticMesh: Building static mesh cupboard-slide...
+[2019.04.09-02.24.10:043][868]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/dist/fbx/cupboard-slide.cupboard-slide
+[2019.04.09-02.24.10:072][869]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/cupboard-small.fbx)
+[2019.04.09-02.24.10:082][869]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/cupboard-small.fbx
+[2019.04.09-02.24.10:087][869]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.10:334][869]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.10:424][869]LogStaticMesh: Building static mesh cupboard-small...
+[2019.04.09-02.24.10:429][869]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/dist/fbx/cupboard-small.cupboard-small
+[2019.04.09-02.24.10:458][870]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/cupboard.fbx)
+[2019.04.09-02.24.10:467][870]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/cupboard.fbx
+[2019.04.09-02.24.10:472][870]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.10:661][870]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.10:714][870]LogStaticMesh: Building static mesh cupboard...
+[2019.04.09-02.24.10:716][870]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/cupboard.cupboard
+[2019.04.09-02.24.10:743][871]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/desk.fbx)
+[2019.04.09-02.24.10:751][871]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/desk.fbx
+[2019.04.09-02.24.10:756][871]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.11:001][871]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.11:027][871]LogStaticMesh: Building static mesh desk...
+[2019.04.09-02.24.11:028][871]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/desk.desk
+[2019.04.09-02.24.11:053][872]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/lamp-long.fbx)
+[2019.04.09-02.24.11:061][872]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/lamp-long.fbx
+[2019.04.09-02.24.11:067][872]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.11:335][872]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.11:359][872]LogStaticMesh: Building static mesh lamp-long...
+[2019.04.09-02.24.11:360][872]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/lamp-long.lamp-long
+[2019.04.09-02.24.11:382][873]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/lamp.fbx)
+[2019.04.09-02.24.11:391][873]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/lamp.fbx
+[2019.04.09-02.24.11:396][873]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.11:655][873]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.11:681][873]LogStaticMesh: Building static mesh lamp...
+[2019.04.09-02.24.11:683][873]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/lamp.lamp
+[2019.04.09-02.24.11:706][874]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/sofa-double.fbx)
+[2019.04.09-02.24.11:714][874]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/sofa-double.fbx
+[2019.04.09-02.24.11:719][874]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.11:979][874]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.12:026][874]LogStaticMesh: Building static mesh sofa-double...
+[2019.04.09-02.24.12:030][874]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/sofa-double.sofa-double
+[2019.04.09-02.24.12:057][875]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/sofa-single.fbx)
+[2019.04.09-02.24.12:065][875]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/sofa-single.fbx
+[2019.04.09-02.24.12:071][875]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.12:314][875]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.12:354][875]LogStaticMesh: Building static mesh sofa-single...
+[2019.04.09-02.24.12:356][875]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/sofa-single.sofa-single
+[2019.04.09-02.24.12:381][876]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/sofa-triple.fbx)
+[2019.04.09-02.24.12:390][876]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/sofa-triple.fbx
+[2019.04.09-02.24.12:396][876]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.12:681][876]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.12:736][876]LogStaticMesh: Building static mesh sofa-triple...
+[2019.04.09-02.24.12:740][876]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/dist/fbx/sofa-triple.sofa-triple
+[2019.04.09-02.24.12:769][877]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/stool-alt.fbx)
+[2019.04.09-02.24.12:777][877]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/stool-alt.fbx
+[2019.04.09-02.24.12:783][877]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.13:023][877]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.13:039][877]LogStaticMesh: Building static mesh stool-alt_cushion...
+[2019.04.09-02.24.13:039][877]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/stool-alt_cushion.stool-alt_cushion
+[2019.04.09-02.24.13:057][877]LogStaticMesh: Building static mesh stool-alt_stool...
+[2019.04.09-02.24.13:058][877]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/stool-alt_stool.stool-alt_stool
+[2019.04.09-02.24.13:082][878]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/stool-round.fbx)
+[2019.04.09-02.24.13:090][878]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/stool-round.fbx
+[2019.04.09-02.24.13:096][878]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.13:365][878]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.13:432][878]LogStaticMesh: Building static mesh stool-round...
+[2019.04.09-02.24.13:441][878]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/dist/fbx/stool-round.stool-round
+[2019.04.09-02.24.13:489][879]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/stool.fbx)
+[2019.04.09-02.24.13:501][879]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/stool.fbx
+[2019.04.09-02.24.13:509][879]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.13:739][879]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.13:800][879]LogStaticMesh: Building static mesh stool...
+[2019.04.09-02.24.13:807][879]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/dist/fbx/stool.stool
+[2019.04.09-02.24.13:849][880]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/table-cafe.fbx)
+[2019.04.09-02.24.13:872][880]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/table-cafe.fbx
+[2019.04.09-02.24.13:882][880]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.14:117][880]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.14:146][880]LogStaticMesh: Building static mesh table-cafe...
+[2019.04.09-02.24.14:147][880]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/table-cafe.table-cafe
+[2019.04.09-02.24.14:175][881]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/table-fold.fbx)
+[2019.04.09-02.24.14:184][881]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/table-fold.fbx
+[2019.04.09-02.24.14:190][881]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.14:498][881]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.14:547][881]LogStaticMesh: Building static mesh table-fold...
+[2019.04.09-02.24.14:549][881]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/table-fold.table-fold
+[2019.04.09-02.24.14:578][882]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/table-modern.fbx)
+[2019.04.09-02.24.14:588][882]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/table-modern.fbx
+[2019.04.09-02.24.14:603][882]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.14:847][882]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.14:872][882]LogStaticMesh: Building static mesh table-modern...
+[2019.04.09-02.24.14:873][882]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/table-modern.table-modern
+[2019.04.09-02.24.14:898][883]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/table-round.fbx)
+[2019.04.09-02.24.14:916][883]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/table-round.fbx
+[2019.04.09-02.24.14:921][883]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.15:181][883]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.15:242][883]LogStaticMesh: Building static mesh table-round...
+[2019.04.09-02.24.15:244][883]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/table-round.table-round
+[2019.04.09-02.24.15:275][884]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/table-small.fbx)
+[2019.04.09-02.24.15:302][884]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/table-small.fbx
+[2019.04.09-02.24.15:317][884]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.15:558][884]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.15:601][884]LogStaticMesh: Building static mesh table-small...
+[2019.04.09-02.24.15:607][884]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/dist/fbx/table-small.table-small
+[2019.04.09-02.24.15:648][885]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/table.fbx)
+[2019.04.09-02.24.15:658][885]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/table.fbx
+[2019.04.09-02.24.15:664][885]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.15:880][885]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.15:927][885]LogStaticMesh: Building static mesh table...
+[2019.04.09-02.24.15:928][885]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/fbx/table.table
+[2019.04.09-02.24.15:957][886]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/bed-king.obj)
+[2019.04.09-02.24.15:963][886]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/bed-king.obj
+[2019.04.09-02.24.15:967][886]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.16:206][886]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.16:273][886]LogStaticMesh: Building static mesh bed-king...
+[2019.04.09-02.24.16:284][886]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/dist/obj_mtl/bed-king.bed-king
+[2019.04.09-02.24.16:324][887]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/bed-single.obj)
+[2019.04.09-02.24.16:342][887]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/bed-single.obj
+[2019.04.09-02.24.16:344][887]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.39:986][887]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.40:053][887]LogStaticMesh: Building static mesh bed-single...
+[2019.04.09-02.24.40:064][887]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/dist/obj_mtl/bed-single.bed-single
+[2019.04.09-02.24.40:115][888]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/chair-2.obj)
+[2019.04.09-02.24.40:136][888]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/chair-2.obj
+[2019.04.09-02.24.40:140][888]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.40:552][888]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.40:621][888]LogStaticMesh: Building static mesh chair-2...
+[2019.04.09-02.24.40:632][888]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/dist/obj_mtl/chair-2.chair-2
+[2019.04.09-02.24.40:666][889]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.09-02.24.40:669][889]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/chair-alt.obj)
+[2019.04.09-02.24.40:676][889]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/chair-alt.obj
+[2019.04.09-02.24.40:679][889]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.41:203][889]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.41:264][889]LogStaticMesh: Building static mesh chair-alt...
+[2019.04.09-02.24.41:268][889]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/obj_mtl/chair-alt.chair-alt
+[2019.04.09-02.24.41:306][890]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/chair-cafe.obj)
+[2019.04.09-02.24.41:312][890]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/chair-cafe.obj
+[2019.04.09-02.24.41:315][890]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.41:848][890]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.41:915][890]LogStaticMesh: Building static mesh chair-cafe...
+[2019.04.09-02.24.41:919][890]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/obj_mtl/chair-cafe.chair-cafe
+[2019.04.09-02.24.41:957][891]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/chair-rest.obj)
+[2019.04.09-02.24.41:964][891]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/chair-rest.obj
+[2019.04.09-02.24.41:966][891]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.42:443][891]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.42:517][891]LogStaticMesh: Building static mesh chair-rest...
+[2019.04.09-02.24.42:521][891]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/obj_mtl/chair-rest.chair-rest
+[2019.04.09-02.24.42:557][892]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/chair-rock.obj)
+[2019.04.09-02.24.42:570][892]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/chair-rock.obj
+[2019.04.09-02.24.42:573][892]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.43:022][892]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.43:109][892]LogStaticMesh: Building static mesh chair-rock...
+[2019.04.09-02.24.43:118][892]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/dist/obj_mtl/chair-rock.chair-rock
+[2019.04.09-02.24.43:159][893]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/chair.obj)
+[2019.04.09-02.24.43:166][893]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/chair.obj
+[2019.04.09-02.24.43:170][893]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.43:666][893]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.43:771][893]LogStaticMesh: Building static mesh chair...
+[2019.04.09-02.24.43:778][893]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/dist/obj_mtl/chair.chair
+[2019.04.09-02.24.43:816][894]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/cupboard-kitchen.obj)
+[2019.04.09-02.24.43:825][894]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/cupboard-kitchen.obj
+[2019.04.09-02.24.43:832][894]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.44:209][894]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.44:312][894]LogStaticMesh: Building static mesh cupboard-kitchen...
+[2019.04.09-02.24.44:325][894]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/dist/obj_mtl/cupboard-kitchen.cupboard-kitchen
+[2019.04.09-02.24.44:366][895]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/cupboard-open.obj)
+[2019.04.09-02.24.44:375][895]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/cupboard-open.obj
+[2019.04.09-02.24.44:389][895]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.44:823][895]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.44:960][895]LogStaticMesh: Building static mesh cupboard-open...
+[2019.04.09-02.24.44:984][895]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/dist/obj_mtl/cupboard-open.cupboard-open
+[2019.04.09-02.24.45:017][896]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/cupboard-slide.obj)
+[2019.04.09-02.24.45:025][896]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/cupboard-slide.obj
+[2019.04.09-02.24.45:028][896]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.45:344][896]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.45:464][896]LogStaticMesh: Building static mesh cupboard-slide...
+[2019.04.09-02.24.45:483][896]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/dist/obj_mtl/cupboard-slide.cupboard-slide
+[2019.04.09-02.24.45:523][897]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/cupboard-small.obj)
+[2019.04.09-02.24.45:532][897]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/cupboard-small.obj
+[2019.04.09-02.24.45:544][897]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.24.46:005][897]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.24.46:157][897]LogStaticMesh: Building static mesh cupboard-small...
+[2019.04.09-02.24.46:181][897]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/dist/obj_mtl/cupboard-small.cupboard-small
+[2019.04.09-02.24.46:222][898]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/cupboard.obj)
+[2019.04.09-02.24.46:231][898]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/cupboard.obj
+[2019.04.09-02.24.46:235][898]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.25.23:183][898]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.25.23:262][898]LogStaticMesh: Building static mesh cupboard...
+[2019.04.09-02.25.23:273][898]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/dist/obj_mtl/cupboard.cupboard
+[2019.04.09-02.25.23:346][899]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/desk.obj)
+[2019.04.09-02.25.23:352][899]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/desk.obj
+[2019.04.09-02.25.23:355][899]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.25.24:082][899]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.25.24:136][899]LogStaticMesh: Building static mesh desk...
+[2019.04.09-02.25.24:139][899]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/obj_mtl/desk.desk
+[2019.04.09-02.25.24:176][900]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/lamp-long.obj)
+[2019.04.09-02.25.24:185][900]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/lamp-long.obj
+[2019.04.09-02.25.24:186][900]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.25.30:800][900]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.25.30:842][900]LogStaticMesh: Building static mesh lamp-long...
+[2019.04.09-02.25.30:845][900]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/obj_mtl/lamp-long.lamp-long
+[2019.04.09-02.25.30:886][901]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/lamp.obj)
+[2019.04.09-02.25.30:899][901]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/lamp.obj
+[2019.04.09-02.25.30:901][901]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.25.31:728][901]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.25.31:772][901]LogStaticMesh: Building static mesh lamp...
+[2019.04.09-02.25.31:775][901]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/obj_mtl/lamp.lamp
+[2019.04.09-02.25.31:818][902]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/sofa-double.obj)
+[2019.04.09-02.25.31:826][902]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/sofa-double.obj
+[2019.04.09-02.25.31:831][902]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.25.32:417][902]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.25.32:498][902]LogStaticMesh: Building static mesh sofa-double...
+[2019.04.09-02.25.32:512][902]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/dist/obj_mtl/sofa-double.sofa-double
+[2019.04.09-02.25.32:546][903]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/sofa-single.obj)
+[2019.04.09-02.25.32:560][903]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/sofa-single.obj
+[2019.04.09-02.25.32:566][903]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.25.33:130][903]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.25.33:214][903]LogStaticMesh: Building static mesh sofa-single...
+[2019.04.09-02.25.33:222][903]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/dist/obj_mtl/sofa-single.sofa-single
+[2019.04.09-02.25.33:258][904]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/sofa-triple.obj)
+[2019.04.09-02.25.33:266][904]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/sofa-triple.obj
+[2019.04.09-02.25.33:272][904]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.25.33:752][904]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.25.33:848][904]LogStaticMesh: Building static mesh sofa-triple...
+[2019.04.09-02.25.33:866][904]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/dist/obj_mtl/sofa-triple.sofa-triple
+[2019.04.09-02.25.33:913][905]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/stool-alt.obj)
+[2019.04.09-02.25.33:920][905]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/stool-alt.obj
+[2019.04.09-02.25.33:922][905]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.25.34:373][905]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.25.34:431][905]LogStaticMesh: Building static mesh stool-alt...
+[2019.04.09-02.25.34:434][905]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/obj_mtl/stool-alt.stool-alt
+[2019.04.09-02.25.34:472][906]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/stool-round.obj)
+[2019.04.09-02.25.34:480][906]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/stool-round.obj
+[2019.04.09-02.25.34:482][906]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.25.34:941][906]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.25.35:045][906]LogStaticMesh: Building static mesh stool-round...
+[2019.04.09-02.25.35:053][906]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/dist/obj_mtl/stool-round.stool-round
+[2019.04.09-02.25.35:103][907]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/stool.obj)
+[2019.04.09-02.25.35:118][907]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/stool.obj
+[2019.04.09-02.25.35:121][907]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.25.35:572][907]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.25.35:627][907]LogStaticMesh: Building static mesh stool...
+[2019.04.09-02.25.35:633][907]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/dist/obj_mtl/stool.stool
+[2019.04.09-02.25.35:678][908]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/table-cafe.obj)
+[2019.04.09-02.25.35:685][908]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/table-cafe.obj
+[2019.04.09-02.25.35:686][908]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.25.36:389][908]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.25.36:462][908]LogStaticMesh: Building static mesh table-cafe...
+[2019.04.09-02.25.36:464][908]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/obj_mtl/table-cafe.table-cafe
+[2019.04.09-02.25.36:500][909]LogShaderCompilers: Display: Shaders left to compile 74
+[2019.04.09-02.25.36:502][909]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/table-fold.obj)
+[2019.04.09-02.25.36:509][909]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/table-fold.obj
+[2019.04.09-02.25.36:511][909]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.25.37:013][909]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.25.37:087][909]LogStaticMesh: Building static mesh table-fold...
+[2019.04.09-02.25.37:091][909]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/obj_mtl/table-fold.table-fold
+[2019.04.09-02.25.37:132][910]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/table-modern.obj)
+[2019.04.09-02.25.37:140][910]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/table-modern.obj
+[2019.04.09-02.25.37:141][910]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.25.37:590][910]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.25.37:644][910]LogStaticMesh: Building static mesh table-modern...
+[2019.04.09-02.25.37:646][910]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/dist/obj_mtl/table-modern.table-modern
+[2019.04.09-02.25.37:682][911]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/table-round.obj)
+[2019.04.09-02.25.37:689][911]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/table-round.obj
+[2019.04.09-02.25.37:691][911]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.25.38:109][911]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.25.38:194][911]LogStaticMesh: Building static mesh table-round...
+[2019.04.09-02.25.38:201][911]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/dist/obj_mtl/table-round.table-round
+[2019.04.09-02.25.38:234][912]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/table-small.obj)
+[2019.04.09-02.25.38:242][912]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/table-small.obj
+[2019.04.09-02.25.38:245][912]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.25.38:638][912]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.25.38:725][912]LogStaticMesh: Building static mesh table-small...
+[2019.04.09-02.25.38:731][912]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/dist/obj_mtl/table-small.table-small
+[2019.04.09-02.25.38:772][913]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/table.obj)
+[2019.04.09-02.25.38:781][913]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/table.obj
+[2019.04.09-02.25.38:786][913]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.25.39:160][913]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.25.39:227][913]LogStaticMesh: Building static mesh table...
+[2019.04.09-02.25.39:236][913]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/dist/obj_mtl/table.table
+[2019.04.09-02.25.39:289][914]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/preview.png)
+[2019.04.09-02.25.39:766][915]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Sign_NoParking.fbx)
+[2019.04.09-02.25.39:781][915]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Sign_NoParking.fbx
+[2019.04.09-02.25.39:795][915]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.25.40:606][915]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.25.40:754][915]LogStaticMesh: Building static mesh Sign_NoParking...
+[2019.04.09-02.25.40:757][915]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/FBX/Sign_NoParking.Sign_NoParking
+[2019.04.09-02.25.40:811][916]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Sign_Stop.fbx)
+[2019.04.09-02.25.40:823][916]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Sign_Stop.fbx
+[2019.04.09-02.25.40:831][916]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.25.41:452][916]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.25.41:568][916]LogStaticMesh: Building static mesh Sign_Stop...
+[2019.04.09-02.25.41:573][916]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/FBX/Sign_Stop.Sign_Stop
+[2019.04.09-02.25.41:619][917]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Sign_Triangle.fbx)
+[2019.04.09-02.25.41:636][917]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Sign_Triangle.fbx
+[2019.04.09-02.25.41:644][917]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.25.42:189][917]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.25.42:312][917]LogStaticMesh: Building static mesh Sign_Triangle...
+[2019.04.09-02.25.42:313][917]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/FBX/Sign_Triangle.Sign_Triangle
+[2019.04.09-02.25.42:355][918]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Streetlight_Double.fbx)
+[2019.04.09-02.25.42:369][918]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Streetlight_Double.fbx
+[2019.04.09-02.25.42:376][918]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.25.42:816][918]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.25.43:216][918]LogStaticMesh: Building static mesh Streetlight_Double...
+[2019.04.09-02.25.43:250][918]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/FBX/Streetlight_Double.Streetlight_Double
+[2019.04.09-02.25.43:310][919]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Streetlight_Single.fbx)
+[2019.04.09-02.25.43:321][919]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Streetlight_Single.fbx
+[2019.04.09-02.25.43:328][919]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.25.43:817][919]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.25.44:052][919]LogStaticMesh: Building static mesh Streetlight_Single...
+[2019.04.09-02.25.44:064][919]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/FBX/Streetlight_Single.Streetlight_Single
+[2019.04.09-02.25.44:118][920]LogShaderCompilers: Display: Shaders left to compile 396
+[2019.04.09-02.25.44:121][920]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Streetlight_Triple.fbx)
+[2019.04.09-02.25.44:133][920]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Streetlight_Triple.fbx
+[2019.04.09-02.25.44:139][920]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.25.44:732][920]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.25.45:179][920]LogStaticMesh: Building static mesh Streetlight_Triple...
+[2019.04.09-02.25.45:224][920]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/FBX/Streetlight_Triple.Streetlight_Triple
+[2019.04.09-02.25.45:289][921]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Streets_all.fbx)
+[2019.04.09-02.25.45:306][921]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Streets_all.fbx
+[2019.04.09-02.25.45:328][921]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.25.45:775][921]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.25.45:856][921]LogStaticMesh: Building static mesh Streets_all_Street_Water...
+[2019.04.09-02.25.45:857][921]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/FBX/Streets_all_Street_Water.Streets_all_Street_Water
+[2019.04.09-02.25.46:089][921]LogStaticMesh: Building static mesh Streets_all_Street_Ramp_Bridge_001...
+[2019.04.09-02.25.46:118][921]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/FBX/Streets_all_Street_Ramp_Bridge_001.Streets_all_Street_Ramp_Bridge_001
+[2019.04.09-02.25.46:263][921]LogStaticMesh: Building static mesh Streets_all_Street_Ramp_Water_000...
+[2019.04.09-02.25.46:273][921]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/FBX/Streets_all_Street_Ramp_Water_000.Streets_all_Street_Ramp_Water_000
+[2019.04.09-02.25.46:412][921]LogStaticMesh: Building static mesh Streets_all_Street_Ramp_Water_001...
+[2019.04.09-02.25.46:424][921]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/FBX/Streets_all_Street_Ramp_Water_001.Streets_all_Street_Ramp_Water_001
+[2019.04.09-02.25.46:477][921]LogStaticMesh: Building static mesh Streets_all_Street_RampElevated_001...
+[2019.04.09-02.25.46:482][921]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/FBX/Streets_all_Street_RampElevated_001.Streets_all_Street_RampElevated_001
+[2019.04.09-02.25.46:536][921]LogStaticMesh: Building static mesh Streets_all_Street_RampElevated...
+[2019.04.09-02.25.46:541][921]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/FBX/Streets_all_Street_RampElevated.Streets_all_Street_RampElevated
+[2019.04.09-02.25.46:595][921]LogStaticMesh: Building static mesh Streets_all_Street_Straight_002...
+[2019.04.09-02.25.46:599][921]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/FBX/Streets_all_Street_Straight_002.Streets_all_Street_Straight_002
+[2019.04.09-02.25.46:646][921]LogStaticMesh: Building static mesh Streets_all_Street_Straight_001...
+[2019.04.09-02.25.46:649][921]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/FBX/Streets_all_Street_Straight_001.Streets_all_Street_Straight_001
+[2019.04.09-02.25.46:819][921]LogStaticMesh: Building static mesh Streets_all_Street_Bridge...
+[2019.04.09-02.25.46:831][921]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/FBX/Streets_all_Street_Bridge.Streets_all_Street_Bridge
+[2019.04.09-02.25.46:978][921]LogStaticMesh: Building static mesh Streets_all_Street_Bridge_Underpass...
+[2019.04.09-02.25.46:987][921]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/FBX/Streets_all_Street_Bridge_Underpass.Streets_all_Street_Bridge_Underpass
+[2019.04.09-02.25.47:159][921]LogStaticMesh: Building static mesh Streets_all_Street_Bridge_Water...
+[2019.04.09-02.25.47:172][921]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/FBX/Streets_all_Street_Bridge_Water.Streets_all_Street_Bridge_Water
+[2019.04.09-02.25.47:207][921]LogStaticMesh: Building static mesh Streets_all_Street_3Way_2...
+[2019.04.09-02.25.47:210][921]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/FBX/Streets_all_Street_3Way_2.Streets_all_Street_3Way_2
+[2019.04.09-02.25.47:242][921]LogStaticMesh: Building static mesh Streets_all_Street_4Way_2...
+[2019.04.09-02.25.47:245][921]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/FBX/Streets_all_Street_4Way_2.Streets_all_Street_4Way_2
+[2019.04.09-02.25.47:293][921]LogStaticMesh: Building static mesh Streets_all_Street_Deadend...
+[2019.04.09-02.25.47:300][921]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/FBX/Streets_all_Street_Deadend.Streets_all_Street_Deadend
+[2019.04.09-02.25.47:359][921]LogStaticMesh: Building static mesh Streets_all_Street_Elevated...
+[2019.04.09-02.25.47:363][921]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/FBX/Streets_all_Street_Elevated.Streets_all_Street_Elevated
+[2019.04.09-02.25.47:402][921]LogStaticMesh: Building static mesh Streets_all_Street_Curve...
+[2019.04.09-02.25.47:407][921]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/FBX/Streets_all_Street_Curve.Streets_all_Street_Curve
+[2019.04.09-02.25.47:416][921]LogStaticMesh: Building static mesh Streets_all_Street_Empty...
+[2019.04.09-02.25.47:417][921]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/FBX/Streets_all_Street_Empty.Streets_all_Street_Empty
+[2019.04.09-02.25.47:482][921]LogStaticMesh: Building static mesh Streets_all_Street_3Way...
+[2019.04.09-02.25.47:487][921]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/FBX/Streets_all_Street_3Way.Streets_all_Street_3Way
+[2019.04.09-02.25.47:581][921]LogStaticMesh: Building static mesh Streets_all_Street_4Way...
+[2019.04.09-02.25.47:591][921]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/FBX/Streets_all_Street_4Way.Streets_all_Street_4Way
+[2019.04.09-02.25.47:644][921]LogStaticMesh: Building static mesh Streets_all_Street_Straight...
+[2019.04.09-02.25.47:648][921]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/FBX/Streets_all_Street_Straight.Streets_all_Street_Straight
+[2019.04.09-02.25.47:718][922]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Street_3Way.fbx)
+[2019.04.09-02.25.47:731][922]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Street_3Way.fbx
+[2019.04.09-02.25.47:741][922]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.25.48:657][922]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.25.48:763][922]LogStaticMesh: Building static mesh Street_3Way...
+[2019.04.09-02.25.48:770][922]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/FBX/Street_3Way.Street_3Way
+[2019.04.09-02.25.48:833][923]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Street_3Way_2.fbx)
+[2019.04.09-02.25.48:845][923]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Street_3Way_2.fbx
+[2019.04.09-02.25.48:856][923]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.25.58:957][923]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.25.59:003][923]LogStaticMesh: Building static mesh Street_3Way_2...
+[2019.04.09-02.25.59:006][923]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/FBX/Street_3Way_2.Street_3Way_2
+[2019.04.09-02.25.59:093][924]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Street_4Way.fbx)
+[2019.04.09-02.25.59:106][924]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Street_4Way.fbx
+[2019.04.09-02.25.59:114][924]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.26.00:008][924]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.26.00:123][924]LogStaticMesh: Building static mesh Street_4Way...
+[2019.04.09-02.26.00:134][924]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/FBX/Street_4Way.Street_4Way
+[2019.04.09-02.26.00:178][925]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Street_4Way_2.fbx)
+[2019.04.09-02.26.00:191][925]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Street_4Way_2.fbx
+[2019.04.09-02.26.00:196][925]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.26.00:854][925]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.26.00:904][925]LogStaticMesh: Building static mesh Street_4Way_2...
+[2019.04.09-02.26.00:908][925]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/FBX/Street_4Way_2.Street_4Way_2
+[2019.04.09-02.26.00:948][926]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Street_Bridge.fbx)
+[2019.04.09-02.26.00:967][926]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Street_Bridge.fbx
+[2019.04.09-02.26.00:982][926]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.26.01:890][926]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.26.02:027][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/fbx/bed-king" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/bed-king.uasset" SILENT=true
+[2019.04.09-02.26.02:030][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/bed-kingE4C02DFC4AAC504658B59C99C2432CD5.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/bed-king.uasset'
+[2019.04.09-02.26.02:039][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/fbx/bed-single" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/bed-single.uasset" SILENT=true
+[2019.04.09-02.26.02:041][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/bed-singleFFD8B29D4BBDD2F9B2731C82CB6B715D.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/bed-single.uasset'
+[2019.04.09-02.26.02:071][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/fbx/chair-2" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/chair-2.uasset" SILENT=true
+[2019.04.09-02.26.02:085][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/chair-2BB0825A34637EA8446EACCBA81F00560.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/chair-2.uasset'
+[2019.04.09-02.26.02:113][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/fbx/chair-alt" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/chair-alt.uasset" SILENT=true
+[2019.04.09-02.26.02:128][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/chair-altF0FCB0F446CB6748668320A8D096AAE7.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/chair-alt.uasset'
+[2019.04.09-02.26.02:140][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/fbx/chair-cafe" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/chair-cafe.uasset" SILENT=true
+[2019.04.09-02.26.02:142][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/chair-cafe5E74DADA4F7EADF3F8FF23A01F5A3B5F.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/chair-cafe.uasset'
+[2019.04.09-02.26.02:151][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/fbx/chair-rest" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/chair-rest.uasset" SILENT=true
+[2019.04.09-02.26.02:153][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/chair-restA402C5B747EB2CE454EF36A2901EC410.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/chair-rest.uasset'
+[2019.04.09-02.26.02:177][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/fbx/chair-rock" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/chair-rock.uasset" SILENT=true
+[2019.04.09-02.26.02:197][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/chair-rock2DC6CA8944D909E08597AD91D9170BEA.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/chair-rock.uasset'
+[2019.04.09-02.26.02:210][927]LogShaderCompilers: Display: Shaders left to compile 230
+[2019.04.09-02.26.02:220][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/fbx/chair" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/chair.uasset" SILENT=true
+[2019.04.09-02.26.02:235][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/chair2148981E4BB18C9E72C0009FA5E41F97.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/chair.uasset'
+[2019.04.09-02.26.02:264][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/fbx/cupboard-kitchen" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/cupboard-kitchen.uasset" SILENT=true
+[2019.04.09-02.26.02:287][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/cupboard-kitchen55548FEE481BBF1612CDE69BACD3E2EA.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/cupboard-kitchen.uasset'
+[2019.04.09-02.26.02:311][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/fbx/cupboard-open" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/cupboard-open.uasset" SILENT=true
+[2019.04.09-02.26.02:323][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/cupboard-open3B5428524AC7905DE4FCA8A5F0CE88B2.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/cupboard-open.uasset'
+[2019.04.09-02.26.02:349][927]LogShaderCompilers: Display: Shaders left to compile 220
+[2019.04.09-02.26.02:350][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/fbx/cupboard-slide" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/cupboard-slide.uasset" SILENT=true
+[2019.04.09-02.26.02:368][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/cupboard-slide73989083456E02E3473C56BDFCEFA918.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/cupboard-slide.uasset'
+[2019.04.09-02.26.02:395][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/fbx/cupboard-small" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/cupboard-small.uasset" SILENT=true
+[2019.04.09-02.26.02:408][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/cupboard-small5E77086E46D7D55EE0F5769BA101FC4C.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/cupboard-small.uasset'
+[2019.04.09-02.26.02:433][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/fbx/cupboard" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/cupboard.uasset" SILENT=true
+[2019.04.09-02.26.02:446][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/cupboardF520F42243E4A0F7CD2EA9ADE9AA076E.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/cupboard.uasset'
+[2019.04.09-02.26.02:479][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/fbx/desk" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/desk.uasset" SILENT=true
+[2019.04.09-02.26.02:493][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/desk2E3DBBB7472D72BD3ACBAA90B8D59F37.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/desk.uasset'
+[2019.04.09-02.26.02:524][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/fbx/lamp-long" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/lamp-long.uasset" SILENT=true
+[2019.04.09-02.26.02:539][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/lamp-long469E0E674A93DA9A015605B44A9C92F7.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/lamp-long.uasset'
+[2019.04.09-02.26.02:572][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/fbx/lamp" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/lamp.uasset" SILENT=true
+[2019.04.09-02.26.02:588][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/lamp613157734066A4C5B87ACE943AB3888E.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/lamp.uasset'
+[2019.04.09-02.26.02:620][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/fbx/sofa-double" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/sofa-double.uasset" SILENT=true
+[2019.04.09-02.26.02:631][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/sofa-double318992114C1A0CCCE6495189EF143CC6.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/sofa-double.uasset'
+[2019.04.09-02.26.02:656][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/fbx/sofa-single" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/sofa-single.uasset" SILENT=true
+[2019.04.09-02.26.02:681][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/sofa-single1947175144A121F75C6649B183700CE3.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/sofa-single.uasset'
+[2019.04.09-02.26.02:703][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/fbx/sofa-triple" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/sofa-triple.uasset" SILENT=true
+[2019.04.09-02.26.02:723][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/sofa-triple8F2FD9E64281593C8742A99F3079064E.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/sofa-triple.uasset'
+[2019.04.09-02.26.02:731][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/fbx/stool-alt" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/stool-alt.uasset" SILENT=true
+[2019.04.09-02.26.02:733][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/stool-altDDF0A46047B7D146A1BE63808DFD3511.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/stool-alt.uasset'
+[2019.04.09-02.26.02:756][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/fbx/stool-round" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/stool-round.uasset" SILENT=true
+[2019.04.09-02.26.02:770][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/stool-roundCF5DC6714280DE9A07FFEDBF897EDD98.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/stool-round.uasset'
+[2019.04.09-02.26.02:798][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/fbx/stool" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/stool.uasset" SILENT=true
+[2019.04.09-02.26.02:827][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/stool006802764D516BB06DC0449BC196BE27.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/stool.uasset'
+[2019.04.09-02.26.02:850][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/fbx/table-cafe" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/table-cafe.uasset" SILENT=true
+[2019.04.09-02.26.02:865][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/table-cafeACE4B012498B2D40A1BA48BE8A351AF9.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/table-cafe.uasset'
+[2019.04.09-02.26.02:888][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/fbx/table-fold" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/table-fold.uasset" SILENT=true
+[2019.04.09-02.26.02:904][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/table-fold496CC6EE4AA629A0E21D7B8F6B1C5FBA.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/table-fold.uasset'
+[2019.04.09-02.26.02:931][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/fbx/table-modern" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/table-modern.uasset" SILENT=true
+[2019.04.09-02.26.02:947][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/table-modernE8C5492A456988809F2D778AF726CB22.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/table-modern.uasset'
+[2019.04.09-02.26.02:972][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/fbx/table-round" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/table-round.uasset" SILENT=true
+[2019.04.09-02.26.02:986][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/table-round013144D648D829461B992DAAAB491C1A.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/table-round.uasset'
+[2019.04.09-02.26.03:011][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/fbx/table-small" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/table-small.uasset" SILENT=true
+[2019.04.09-02.26.03:030][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/table-smallA7B2D9CC48B3340949D044B9D9463398.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/table-small.uasset'
+[2019.04.09-02.26.03:057][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/fbx/table" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/table.uasset" SILENT=true
+[2019.04.09-02.26.03:071][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/table9882962C419B5019E5BE37AC51C4B800.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/fbx/table.uasset'
+[2019.04.09-02.26.03:105][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/obj_mtl/bed-king" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/bed-king.uasset" SILENT=true
+[2019.04.09-02.26.03:121][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/bed-kingC835C8C24A3771254D164C9F89A8585C.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/bed-king.uasset'
+[2019.04.09-02.26.03:149][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/obj_mtl/bed-single" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/bed-single.uasset" SILENT=true
+[2019.04.09-02.26.03:164][927]LogShaderCompilers: Display: Shaders left to compile 210
+[2019.04.09-02.26.03:164][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/bed-single928253C740CB6CFD81D77FB11CC7103F.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/bed-single.uasset'
+[2019.04.09-02.26.03:189][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/obj_mtl/chair-2" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/chair-2.uasset" SILENT=true
+[2019.04.09-02.26.03:205][927]LogShaderCompilers: Display: Shaders left to compile 200
+[2019.04.09-02.26.03:205][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/chair-2511305D941A8BADBEA291C93BFB7BBF6.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/chair-2.uasset'
+[2019.04.09-02.26.03:231][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/obj_mtl/chair-alt" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/chair-alt.uasset" SILENT=true
+[2019.04.09-02.26.03:245][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/chair-alt82314DCC4971DE2F9C950A857D138D88.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/chair-alt.uasset'
+[2019.04.09-02.26.03:269][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/obj_mtl/chair-cafe" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/chair-cafe.uasset" SILENT=true
+[2019.04.09-02.26.03:281][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/chair-cafe89DDE7EF4D7CD8F6025D64BB0D186085.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/chair-cafe.uasset'
+[2019.04.09-02.26.03:306][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/obj_mtl/chair-rest" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/chair-rest.uasset" SILENT=true
+[2019.04.09-02.26.03:324][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/chair-rest4AF524B44C7A942EA3689CB107FA8F24.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/chair-rest.uasset'
+[2019.04.09-02.26.03:353][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/obj_mtl/chair-rock" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/chair-rock.uasset" SILENT=true
+[2019.04.09-02.26.03:366][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/chair-rock98CEC3BB4588A1FB2D69FA9542ECFE2D.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/chair-rock.uasset'
+[2019.04.09-02.26.03:393][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/obj_mtl/chair" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/chair.uasset" SILENT=true
+[2019.04.09-02.26.03:404][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/chair5307C35040416AAA45155AB2BD19A82B.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/chair.uasset'
+[2019.04.09-02.26.03:428][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/obj_mtl/cupboard-kitchen" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/cupboard-kitchen.uasset" SILENT=true
+[2019.04.09-02.26.03:445][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/cupboard-kitchenDEB621D84F03FB9E15DE6A8CBD298C32.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/cupboard-kitchen.uasset'
+[2019.04.09-02.26.03:471][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/obj_mtl/cupboard-open" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/cupboard-open.uasset" SILENT=true
+[2019.04.09-02.26.03:487][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/cupboard-openF20234B6468A1E435D68559A859B9731.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/cupboard-open.uasset'
+[2019.04.09-02.26.03:514][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/obj_mtl/cupboard-slide" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/cupboard-slide.uasset" SILENT=true
+[2019.04.09-02.26.03:529][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/cupboard-slide5C26DAB94616F5A4CE1957AF32ED5852.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/cupboard-slide.uasset'
+[2019.04.09-02.26.03:558][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/obj_mtl/cupboard-small" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/cupboard-small.uasset" SILENT=true
+[2019.04.09-02.26.03:572][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/cupboard-small5698F2B849083AD868D6D2942DCB93A0.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/cupboard-small.uasset'
+[2019.04.09-02.26.03:593][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/obj_mtl/cupboard" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/cupboard.uasset" SILENT=true
+[2019.04.09-02.26.03:606][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/cupboardCDDD343943CDD1E13A1A8FADCAE756B4.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/cupboard.uasset'
+[2019.04.09-02.26.03:629][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/obj_mtl/desk" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/desk.uasset" SILENT=true
+[2019.04.09-02.26.03:641][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/deskE8ADEA234F903F5B291B7E8DCED809D0.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/desk.uasset'
+[2019.04.09-02.26.03:669][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/obj_mtl/lamp-long" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/lamp-long.uasset" SILENT=true
+[2019.04.09-02.26.03:682][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/lamp-long3ADEAC7443547BED8F9D69A861D3544B.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/lamp-long.uasset'
+[2019.04.09-02.26.03:711][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/obj_mtl/lamp" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/lamp.uasset" SILENT=true
+[2019.04.09-02.26.03:735][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/lamp561F07114BE20C5ECF444590D3FB9307.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/lamp.uasset'
+[2019.04.09-02.26.03:763][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/obj_mtl/sofa-double" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/sofa-double.uasset" SILENT=true
+[2019.04.09-02.26.03:777][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/sofa-double17F8164541AF90C0CC40F385FEC5D624.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/sofa-double.uasset'
+[2019.04.09-02.26.03:803][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/obj_mtl/sofa-single" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/sofa-single.uasset" SILENT=true
+[2019.04.09-02.26.03:816][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/sofa-single55BB35284C787897BF7AD693DAA0273D.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/sofa-single.uasset'
+[2019.04.09-02.26.03:840][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/obj_mtl/sofa-triple" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/sofa-triple.uasset" SILENT=true
+[2019.04.09-02.26.03:863][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/sofa-triple6606E6DA4EE03A3BD553D48C4389F553.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/sofa-triple.uasset'
+[2019.04.09-02.26.03:895][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/obj_mtl/stool-alt" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/stool-alt.uasset" SILENT=true
+[2019.04.09-02.26.03:911][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/stool-alt5C4D94524CE0301E38EB45AD3B2A8D41.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/stool-alt.uasset'
+[2019.04.09-02.26.03:939][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/obj_mtl/stool-round" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/stool-round.uasset" SILENT=true
+[2019.04.09-02.26.03:953][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/stool-round03E9393144526991E295DD8C221B7F1D.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/stool-round.uasset'
+[2019.04.09-02.26.03:979][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/obj_mtl/stool" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/stool.uasset" SILENT=true
+[2019.04.09-02.26.03:993][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/stool0CF7164A4FDF4BD54C7F47BF0EC7F571.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/stool.uasset'
+[2019.04.09-02.26.04:016][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/obj_mtl/table-cafe" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/table-cafe.uasset" SILENT=true
+[2019.04.09-02.26.04:029][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/table-cafe1210F02746B798B2C6FEC9A5536DBD1A.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/table-cafe.uasset'
+[2019.04.09-02.26.04:058][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/obj_mtl/table-fold" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/table-fold.uasset" SILENT=true
+[2019.04.09-02.26.04:069][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/table-fold551849EE44E5348CF6A42E90E837CD54.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/table-fold.uasset'
+[2019.04.09-02.26.04:093][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/obj_mtl/table-modern" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/table-modern.uasset" SILENT=true
+[2019.04.09-02.26.04:112][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/table-modernFB21BEC946C86423D181DB9B9599F4EC.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/table-modern.uasset'
+[2019.04.09-02.26.04:121][927]LogShaderCompilers: Display: Shaders left to compile 190
+[2019.04.09-02.26.04:137][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/obj_mtl/table-round" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/table-round.uasset" SILENT=true
+[2019.04.09-02.26.04:149][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/table-round085B195641821DA2536F39B1F5137A99.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/table-round.uasset'
+[2019.04.09-02.26.04:174][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/obj_mtl/table-small" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/table-small.uasset" SILENT=true
+[2019.04.09-02.26.04:191][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/table-small0F8595A24E2F4187FEECBEB6F35EAC6E.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/table-small.uasset'
+[2019.04.09-02.26.04:212][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/obj_mtl/table" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/table.uasset" SILENT=true
+[2019.04.09-02.26.04:226][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/table01BBE9C048E826F03CCCAF9587952151.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/obj_mtl/table.uasset'
+[2019.04.09-02.26.04:245][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/dist/preview" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/preview.uasset" SILENT=true
+[2019.04.09-02.26.04:473][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/preview74280DEF413BFC25D81C648958FB93B0.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/dist/preview.uasset'
+[2019.04.09-02.26.04:504][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/FBX/Sign_NoParking" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Sign_NoParking.uasset" SILENT=true
+[2019.04.09-02.26.04:525][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Sign_NoParkingFD82009D4410060D096F8A92DE16CF7C.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Sign_NoParking.uasset'
+[2019.04.09-02.26.04:551][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/FBX/Sign_Stop" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Sign_Stop.uasset" SILENT=true
+[2019.04.09-02.26.04:572][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Sign_Stop88B8E5944AB9EEBBE49660BBA2C98315.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Sign_Stop.uasset'
+[2019.04.09-02.26.04:600][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/FBX/Sign_Triangle" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Sign_Triangle.uasset" SILENT=true
+[2019.04.09-02.26.04:616][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Sign_TriangleFE30A6C841925946412498846630CB7E.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Sign_Triangle.uasset'
+[2019.04.09-02.26.04:643][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/FBX/Streetlight_Double" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Streetlight_Double.uasset" SILENT=true
+[2019.04.09-02.26.04:657][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Streetlight_DoubleF8412DB0481CB34692B378B11C95B128.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Streetlight_Double.uasset'
+[2019.04.09-02.26.04:681][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/FBX/Streetlight_Single" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Streetlight_Single.uasset" SILENT=true
+[2019.04.09-02.26.04:695][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Streetlight_SingleA1501D044F8C275360031EBE88801D85.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Streetlight_Single.uasset'
+[2019.04.09-02.26.04:720][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/FBX/Streetlight_Triple" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Streetlight_Triple.uasset" SILENT=true
+[2019.04.09-02.26.04:735][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Streetlight_TripleE828FECB475536B1DA24B59939D1F486.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Streetlight_Triple.uasset'
+[2019.04.09-02.26.04:743][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/FBX/Streets_all" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Streets_all.uasset" SILENT=true
+[2019.04.09-02.26.04:745][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Streets_all67F4CF3748E75812A40AC6A89C19F5E0.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Streets_all.uasset'
+[2019.04.09-02.26.04:777][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/FBX/Street_3Way" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Street_3Way.uasset" SILENT=true
+[2019.04.09-02.26.04:792][927]LogShaderCompilers: Display: Shaders left to compile 180
+[2019.04.09-02.26.04:792][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Street_3Way132BCFC4471C3A46F7BD7391AE51F3BE.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Street_3Way.uasset'
+[2019.04.09-02.26.04:818][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/FBX/Street_3Way_2" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Street_3Way_2.uasset" SILENT=true
+[2019.04.09-02.26.04:833][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Street_3Way_29056D2E44F1E9F55BBA629B6AE4D108D.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Street_3Way_2.uasset'
+[2019.04.09-02.26.04:859][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/FBX/Street_4Way" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Street_4Way.uasset" SILENT=true
+[2019.04.09-02.26.04:882][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Street_4Way4315A839487940602BB30693B0CF5513.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Street_4Way.uasset'
+[2019.04.09-02.26.04:909][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/FBX/Street_4Way_2" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Street_4Way_2.uasset" SILENT=true
+[2019.04.09-02.26.04:926][927]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Street_4Way_2257FD56F46B4C9E5B9936CACED550AF0.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Street_4Way_2.uasset'
+[2019.04.09-02.26.05:364][929]LogShaderCompilers: Display: Shaders left to compile 170
+[2019.04.09-02.26.06:315][982]LogShaderCompilers: Display: Shaders left to compile 160
+[2019.04.09-02.26.06:890][ 19]LogShaderCompilers: Display: Shaders left to compile 150
+[2019.04.09-02.26.07:136][ 36]LogShaderCompilers: Display: Shaders left to compile 140
+[2019.04.09-02.26.07:504][ 60]LogSlate: Window 'Message Log' being destroyed
+[2019.04.09-02.26.07:510][ 60]LogSlate: Window 'Message Log' being destroyed
+[2019.04.09-02.26.07:875][ 86]LogShaderCompilers: Display: Shaders left to compile 130
+[2019.04.09-02.26.07:943][ 90]AssetReimport: Importing new asset /Game/Assets/dist/fbx/bed-king.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/fbx/bed-single.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/fbx/chair-2.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/fbx/chair-alt.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/fbx/chair-cafe.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/fbx/chair-rest.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/fbx/chair-rock.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/fbx/chair.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/fbx/cupboard-kitchen.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/fbx/cupboard-open.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/fbx/cupboard-slide.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/fbx/cupboard-small.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/fbx/cupboard.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/fbx/desk.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/fbx/lamp-long.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/fbx/lamp.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/fbx/sofa-double.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/fbx/sofa-single.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/fbx/sofa-triple.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/fbx/stool-alt.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/fbx/stool-round.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/fbx/stool.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/fbx/table-cafe.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/fbx/table-fold.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/fbx/table-modern.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/fbx/table-round.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/fbx/table-small.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/fbx/table.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/obj_mtl/bed-king.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/obj_mtl/bed-single.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/obj_mtl/chair-2.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/obj_mtl/chair-alt.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/obj_mtl/chair-cafe.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/obj_mtl/chair-rest.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/obj_mtl/chair-rock.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/obj_mtl/chair.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/obj_mtl/cupboard-kitchen.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/obj_mtl/cupboard-open.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/obj_mtl/cupboard-slide.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/obj_mtl/cupboard-small.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/obj_mtl/cupboard.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/obj_mtl/desk.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/obj_mtl/lamp-long.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/obj_mtl/lamp.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/obj_mtl/sofa-double.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/obj_mtl/sofa-single.
+[2019.04.09-02.26.07:944][ 90]AssetReimport: Importing new asset /Game/Assets/dist/obj_mtl/sofa-triple.
+[2019.04.09-02.26.07:945][ 90]AssetReimport: Importing new asset /Game/Assets/dist/obj_mtl/stool-alt.
+[2019.04.09-02.26.07:945][ 90]AssetReimport: Importing new asset /Game/Assets/dist/obj_mtl/stool-round.
+[2019.04.09-02.26.07:945][ 90]AssetReimport: Importing new asset /Game/Assets/dist/obj_mtl/stool.
+[2019.04.09-02.26.07:945][ 90]AssetReimport: Importing new asset /Game/Assets/dist/obj_mtl/table-cafe.
+[2019.04.09-02.26.07:945][ 90]AssetReimport: Importing new asset /Game/Assets/dist/obj_mtl/table-fold.
+[2019.04.09-02.26.07:945][ 90]AssetReimport: Importing new asset /Game/Assets/dist/obj_mtl/table-modern.
+[2019.04.09-02.26.07:945][ 90]AssetReimport: Importing new asset /Game/Assets/dist/obj_mtl/table-round.
+[2019.04.09-02.26.07:945][ 90]AssetReimport: Importing new asset /Game/Assets/dist/obj_mtl/table-small.
+[2019.04.09-02.26.07:945][ 90]AssetReimport: Importing new asset /Game/Assets/dist/obj_mtl/table.
+[2019.04.09-02.26.07:945][ 90]AssetReimport: Importing new asset /Game/Assets/dist/preview.
+[2019.04.09-02.26.07:945][ 90]AssetReimport: Importing new asset /Game/Assets/FBX/Sign_NoParking.
+[2019.04.09-02.26.07:945][ 90]AssetReimport: Importing new asset /Game/Assets/FBX/Sign_Stop.
+[2019.04.09-02.26.07:945][ 90]AssetReimport: Importing new asset /Game/Assets/FBX/Sign_Triangle.
+[2019.04.09-02.26.07:945][ 90]AssetReimport: Importing new asset /Game/Assets/FBX/Streetlight_Double.
+[2019.04.09-02.26.07:945][ 90]AssetReimport: Importing new asset /Game/Assets/FBX/Streetlight_Single.
+[2019.04.09-02.26.07:945][ 90]AssetReimport: Importing new asset /Game/Assets/FBX/Streetlight_Triple.
+[2019.04.09-02.26.07:945][ 90]AssetReimport: Importing new asset /Game/Assets/FBX/Streets_all.
+[2019.04.09-02.26.07:945][ 90]AssetReimport: Importing new asset /Game/Assets/FBX/Street_3Way.
+[2019.04.09-02.26.07:945][ 90]AssetReimport: Importing new asset /Game/Assets/FBX/Street_3Way_2.
+[2019.04.09-02.26.07:945][ 90]AssetReimport: Importing new asset /Game/Assets/FBX/Street_4Way.
+[2019.04.09-02.26.07:945][ 90]AssetReimport: Importing new asset /Game/Assets/FBX/Street_4Way_2.
+[2019.04.09-02.26.07:945][ 90]AssetReimport: Importing new asset /Game/Assets/FBX/Street_Bridge.
+[2019.04.09-02.26.07:945][ 90]AssetReimport: Failed to import file D:/Repo/VR-Storytelling-Unreal/Content/Assets/FBX/Street_Bridge.fbx.
+[2019.04.09-02.26.08:814][144]LogShaderCompilers: Display: Shaders left to compile 120
+[2019.04.09-02.26.09:471][182]LogShaderCompilers: Display: Shaders left to compile 110
+[2019.04.09-02.26.09:971][200]LogShaderCompilers: Display: Shaders left to compile 100
+[2019.04.09-02.26.09:971][200]LogShaderCompilers: Display: Shaders left to compile 90
+[2019.04.09-02.26.11:259][272]LogShaderCompilers: Display: Shaders left to compile 80
+[2019.04.09-02.26.11:656][292]LogShaderCompilers: Display: Shaders left to compile 70
+[2019.04.09-02.26.11:792][300]LogShaderCompilers: Display: Shaders left to compile 60
+[2019.04.09-02.26.13:296][384]LogShaderCompilers: Display: Shaders left to compile 50
+[2019.04.09-02.26.14:057][431]LogShaderCompilers: Display: Shaders left to compile 40
+[2019.04.09-02.26.14:623][464]LogShaderCompilers: Display: Shaders left to compile 30
+[2019.04.09-02.26.14:828][477]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.09-02.26.15:785][535]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.09-02.26.28:849][988]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-02.26.28:956][995]EditorErrors: New page: Actor attachment
+[2019.04.09-02.26.35:039][719]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-02.26.37:195][975]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-02.26.37:944][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Structure_Wall_Door_object1)
+[2019.04.09-02.26.38:277][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Structure_Wall_Door_object1)
+[2019.04.09-02.26.38:332][107]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.04.09-02.26.38:578][133]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.04.09-02.26.39:008][183]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.04.09-02.26.39:056][187]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Structure_Wall_Door_object1)
+[2019.04.09-02.26.42:780][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-02.26.56:756][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-02.26.56:848][202]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.09-02.26.56:856][202]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.04.09-02.26.56:857][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.09-02.26.56:859][202]PIE: New page: PIE session: Untitled_1 (Apr 8, 2019, 6:26:56 PM)
+[2019.04.09-02.26.56:875][202]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_1
+[2019.04.09-02.26.56:880][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004385s)
+[2019.04.09-02.26.56:881][202]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.09-02.26.56:881][202]LogPlayLevel: PIE: World Init took: (0.001740s)
+[2019.04.09-02.26.56:881][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_1.Untitled_1 to /Temp/UEDPIE_0_Untitled_1.Untitled_1 (0.006364s)
+[2019.04.09-02.26.56:951][202]LogLoad: Game class is 'GameModeBase'
+[2019.04.09-02.26.56:964][202]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_1.Untitled_1 up for play (max tick rate 0) at 2019.04.08-22.26.56
+[2019.04.09-02.26.56:965][202]LogWorld: Bringing up level for play took: 0.003679
+[2019.04.09-02.26.57:021][202]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0017 seconds. Added 20 classes and 0 folders.
+[2019.04.09-02.26.57:026][202]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_1 0.992
+[2019.04.09-02.26.57:027][202]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.04.09-02.27.03:169][933]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.04.09-02.27.03:170][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.09-02.27.03:206][933]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.09-02.27.03:206][933]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Temp/Untitled_1.Untitled_1:PersistentLevel' has LevelScriptBlueprint '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled' with GeneratedClass '/Temp/Untitled_1.Untitled_C' with ClassGeneratedBy '/Temp/Untitled_1.Untitled_1:PersistentLevel.Untitled'
+[2019.04.09-02.27.03:223][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.09-02.27.03:271][936]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.04.09-02.27.05:542][208]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-02.27.09:214][643]LogSlate: Took 0.000811 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.09-02.27.11:388][886]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-02.27.12:467][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Structure_Wall_Door_object1)
+[2019.04.09-02.27.12:724][ 42]Cmd: SELECT NONE
+[2019.04.09-02.27.14:061][201]Cmd: SELECT NONE
+[2019.04.09-02.27.14:431][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Structure_Wall_Door_object1)
+[2019.04.09-02.27.14:485][246]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.04.09-02.27.14:780][278]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2019.04.09-02.27.16:943][508]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-02.27.33:096][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-02.27.38:781][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.04.09-02.27.46:100][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-02.27.50:481][773]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Prop_Bedroom_Bed_Queen.obj)
+[2019.04.09-02.27.50:496][773]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Prop_Bedroom_Bed_Queen.obj
+[2019.04.09-02.27.50:582][773]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-02.27.57:173][773]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-02.27.57:190][773]LogMaterial: Display: Missing cached shader map for material Fabric_6, compiling. 
+[2019.04.09-02.27.57:204][773]LogStaticMesh: Building static mesh Prop_Bedroom_Bed_Queen_object1...
+[2019.04.09-02.27.57:215][773]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.09-02.27.57:215][773]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.09-02.27.57:215][773]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.09-02.27.57:215][773]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/modular_house_collection/Prop_Bedroom_Bed_Queen_object1.Prop_Bedroom_Bed_Queen_object1
+[2019.04.09-02.27.57:230][773]LogMaterial: Display: Missing cached shader map for material Fabric_3, compiling. 
+[2019.04.09-02.27.57:257][773]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.09-02.27.57:258][773]LogStaticMesh: Building static mesh Prop_Bedroom_Bed_Queen_object2...
+[2019.04.09-02.27.57:274][773]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/modular_house_collection/Prop_Bedroom_Bed_Queen_object2.Prop_Bedroom_Bed_Queen_object2
+[2019.04.09-02.27.57:287][773]LogStaticMesh: Building static mesh Prop_Bedroom_Bed_Queen_object3...
+[2019.04.09-02.27.57:310][773]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/modular_house_collection/Prop_Bedroom_Bed_Queen_object3.Prop_Bedroom_Bed_Queen_object3
+[2019.04.09-02.27.57:323][773]LogMaterial: Display: Missing cached shader map for material Fabric_5, compiling. 
+[2019.04.09-02.27.57:339][773]LogStaticMesh: Building static mesh Prop_Bedroom_Bed_Queen_object4...
+[2019.04.09-02.27.57:370][773]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/modular_house_collection/Prop_Bedroom_Bed_Queen_object4.Prop_Bedroom_Bed_Queen_object4
+[2019.04.09-02.27.57:386][773]LogMaterial: Display: Missing cached shader map for material Dark_Wood, compiling. 
+[2019.04.09-02.27.57:425][773]LogStaticMesh: Building static mesh Prop_Bedroom_Bed_Queen_object5...
+[2019.04.09-02.27.57:616][773]LogStaticMesh: Built static mesh [0.19s] /Game/Assets/modular_house_collection/Prop_Bedroom_Bed_Queen_object5.Prop_Bedroom_Bed_Queen_object5
+[2019.04.09-02.27.57:926][788]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.04.09-02.27.59:513][885]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.04.09-02.27.59:565][888]LogActorFactory: Actor Factory created Prop_Bedroom_Bed_Queen_object1
+[2019.04.09-02.27.59:797][903]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.04.09-02.28.01:124][998]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.04.09-02.28.01:160][  0]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.09-02.28.01:307][  8]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.09-02.28.01:368][ 11]LogActorFactory: Actor Factory created Prop_Bedroom_Bed_Queen_object1
+[2019.04.09-02.28.03:557][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-02.28.36:721][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-02.28.36:918][838]LogActorFactory: Actor Factory created Prop_Bedroom_Bed_Queen_object2
+[2019.04.09-02.28.37:773][937]LogActorFactory: Actor Factory created Prop_Bedroom_Bed_Queen_object2
+[2019.04.09-02.28.39:557][126]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-02.28.45:257][648]LogActorFactory: Actor Factory created Prop_Bedroom_Bed_Queen_object4
+[2019.04.09-02.28.45:747][705]LogActorFactory: Actor Factory created Prop_Bedroom_Bed_Queen_object4
+[2019.04.09-02.28.47:010][838]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-02.28.57:008][865]Cmd: SELECT NONE
+[2019.04.09-02.28.57:578][933]Cmd: SELECT NONE
+[2019.04.09-02.28.59:214][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-02.29.07:396][652]LogSlate: Window 'Save Content' being destroyed
+[2019.04.09-02.29.07:426][652]LogSlate: Window 'GroupProjRacer - Unreal Editor' being destroyed
+[2019.04.09-02.29.07:650][653]Cmd: QUIT_EDITOR
+[2019.04.09-02.29.08:453][653]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.09-02.29.08:493][653]LogExit: Preparing to exit.
+[2019.04.09-02.29.09:542][653]LogExit: Editor shut down
+[2019.04.09-02.29.09:543][653]LogExit: Transaction tracking system shut down
+[2019.04.09-02.29.10:101][653]LogExit: Object subsystem successfully closed.
+[2019.04.09-02.29.10:127][653]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.04.09-02.29.10:139][653]LogD3D11RHI: Shutdown
+[2019.04.09-02.29.10:139][653]LogD3D11RHI: CleanupD3DDevice
+[2019.04.09-02.29.10:158][653]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.04.09-02.29.10:232][653]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (630)
+[2019.04.09-02.29.10:232][653]LogModuleManager: Shutting down and abandoning module Voice (628)
+[2019.04.09-02.29.10:232][653]LogModuleManager: Shutting down and abandoning module MeshBuilder (626)
+[2019.04.09-02.29.10:232][653]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (624)
+[2019.04.09-02.29.10:232][653]LogModuleManager: Shutting down and abandoning module SceneOutliner (622)
+[2019.04.09-02.29.10:232][653]LogModuleManager: Shutting down and abandoning module AddContentDialog (620)
+[2019.04.09-02.29.10:236][653]LogModuleManager: Shutting down and abandoning module WidgetCarousel (619)
+[2019.04.09-02.29.10:236][653]LogModuleManager: Shutting down and abandoning module EditorWidgets (616)
+[2019.04.09-02.29.10:236][653]LogModuleManager: Shutting down and abandoning module CollectionManager (614)
+[2019.04.09-02.29.10:237][653]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (612)
+[2019.04.09-02.29.10:237][653]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.04.09-02.29.10:237][653]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.04.09-02.29.10:237][653]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.04.09-02.29.10:237][653]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.04.09-02.29.10:237][653]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.04.09-02.29.10:237][653]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.04.09-02.29.10:237][653]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.04.09-02.29.10:237][653]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.04.09-02.29.10:237][653]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.04.09-02.29.10:237][653]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.04.09-02.29.10:237][653]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.04.09-02.29.10:237][653]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.04.09-02.29.10:237][653]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.04.09-02.29.10:237][653]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.04.09-02.29.10:237][653]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.04.09-02.29.10:237][653]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.04.09-02.29.10:238][653]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.04.09-02.29.10:239][653]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.04.09-02.29.10:239][653]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.04.09-02.29.10:752][653]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.04.09-02.29.10:752][653]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.04.09-02.29.10:752][653]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.04.09-02.29.10:752][653]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.04.09-02.29.10:752][653]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.04.09-02.29.10:752][653]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.04.09-02.29.10:752][653]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.04.09-02.29.10:752][653]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.04.09-02.29.10:753][653]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.04.09-02.29.10:753][653]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.04.09-02.29.10:753][653]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.04.09-02.29.10:753][653]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.04.09-02.29.10:753][653]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.04.09-02.29.10:753][653]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.04.09-02.29.10:753][653]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.04.09-02.29.10:753][653]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.04.09-02.29.10:753][653]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.04.09-02.29.10:753][653]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.04.09-02.29.10:753][653]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.04.09-02.29.10:753][653]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.04.09-02.29.10:753][653]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.04.09-02.29.10:753][653]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.04.09-02.29.10:754][653]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.04.09-02.29.10:809][653]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.04.09-02.29.10:809][653]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.04.09-02.29.10:809][653]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.04.09-02.29.10:809][653]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.04.09-02.29.10:809][653]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.04.09-02.29.10:809][653]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.04.09-02.29.10:810][653]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.04.09-02.29.10:810][653]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.04.09-02.29.10:810][653]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.04.09-02.29.10:810][653]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.04.09-02.29.10:810][653]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.04.09-02.29.10:811][653]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.04.09-02.29.10:811][653]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.04.09-02.29.10:811][653]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.04.09-02.29.10:811][653]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.04.09-02.29.10:811][653]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.04.09-02.29.10:811][653]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.04.09-02.29.10:811][653]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.04.09-02.29.10:811][653]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.04.09-02.29.10:811][653]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.04.09-02.29.10:811][653]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.04.09-02.29.10:811][653]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.04.09-02.29.10:811][653]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.04.09-02.29.10:811][653]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.04.09-02.29.10:811][653]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.04.09-02.29.10:811][653]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.04.09-02.29.10:811][653]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.04.09-02.29.10:811][653]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.04.09-02.29.10:811][653]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.04.09-02.29.10:811][653]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.04.09-02.29.10:811][653]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.04.09-02.29.10:811][653]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.04.09-02.29.10:815][653]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.04.09-02.29.10:847][653]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.04.09-02.29.10:847][653]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.04.09-02.29.10:847][653]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.04.09-02.29.10:848][653]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.04.09-02.29.10:848][653]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.04.09-02.29.10:848][653]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.04.09-02.29.10:848][653]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.04.09-02.29.10:848][653]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.04.09-02.29.10:848][653]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.04.09-02.29.10:848][653]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.04.09-02.29.10:848][653]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.04.09-02.29.10:848][653]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.04.09-02.29.10:848][653]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.04.09-02.29.10:848][653]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.04.09-02.29.10:848][653]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.04.09-02.29.10:848][653]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.04.09-02.29.10:848][653]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.04.09-02.29.10:853][653]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.04.09-02.29.10:853][653]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.04.09-02.29.10:853][653]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.04.09-02.29.10:853][653]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.04.09-02.29.10:853][653]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.04.09-02.29.10:853][653]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.04.09-02.29.10:853][653]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.04.09-02.29.10:853][653]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.04.09-02.29.10:854][653]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.04.09-02.29.10:854][653]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.04.09-02.29.10:854][653]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.04.09-02.29.10:854][653]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.04.09-02.29.10:856][653]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.04.09-02.29.10:856][653]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.04.09-02.29.10:856][653]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.04.09-02.29.10:856][653]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.04.09-02.29.10:856][653]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.04.09-02.29.10:856][653]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.04.09-02.29.10:857][653]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.04.09-02.29.10:857][653]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.04.09-02.29.10:857][653]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.04.09-02.29.10:857][653]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.04.09-02.29.10:857][653]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.04.09-02.29.10:857][653]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.04.09-02.29.10:857][653]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.04.09-02.29.10:858][653]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.04.09-02.29.10:858][653]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.04.09-02.29.10:858][653]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.04.09-02.29.10:858][653]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.04.09-02.29.10:858][653]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.04.09-02.29.10:858][653]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.04.09-02.29.10:858][653]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.04.09-02.29.10:858][653]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.04.09-02.29.10:858][653]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.04.09-02.29.10:859][653]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.04.09-02.29.10:859][653]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.04.09-02.29.10:859][653]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.04.09-02.29.10:859][653]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.04.09-02.29.10:859][653]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.04.09-02.29.10:859][653]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.04.09-02.29.10:859][653]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.04.09-02.29.10:859][653]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.04.09-02.29.10:960][653]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.04.09-02.29.11:061][653]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.04.09-02.29.11:061][653]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.04.09-02.29.11:061][653]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.04.09-02.29.11:061][653]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.04.09-02.29.11:061][653]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.04.09-02.29.11:061][653]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.04.09-02.29.11:061][653]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.04.09-02.29.11:063][653]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.04.09-02.29.11:063][653]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.04.09-02.29.11:063][653]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.04.09-02.29.11:064][653]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.04.09-02.29.11:064][653]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.04.09-02.29.11:067][653]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.04.09-02.29.11:067][653]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.04.09-02.29.11:067][653]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.04.09-02.29.11:067][653]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.04.09-02.29.11:067][653]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.04.09-02.29.11:067][653]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.04.09-02.29.11:067][653]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.04.09-02.29.11:072][653]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.04.09-02.29.11:078][653]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.04.09-02.29.11:078][653]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.04.09-02.29.11:078][653]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.04.09-02.29.11:078][653]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.04.09-02.29.11:078][653]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.04.09-02.29.11:078][653]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.04.09-02.29.11:078][653]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.04.09-02.29.11:078][653]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.04.09-02.29.11:079][653]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.04.09-02.29.11:079][653]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.04.09-02.29.11:079][653]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.04.09-02.29.11:079][653]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.04.09-02.29.11:079][653]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.04.09-02.29.11:079][653]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.04.09-02.29.11:079][653]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.04.09-02.29.11:079][653]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.04.09-02.29.11:079][653]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.04.09-02.29.11:079][653]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.04.09-02.29.11:080][653]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.04.09-02.29.11:080][653]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.04.09-02.29.11:084][653]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.04.09-02.29.11:084][653]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.04.09-02.29.11:084][653]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.04.09-02.29.11:084][653]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.04.09-02.29.11:084][653]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.04.09-02.29.11:084][653]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.04.09-02.29.11:084][653]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.04.09-02.29.11:084][653]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.04.09-02.29.11:084][653]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.04.09-02.29.11:084][653]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.04.09-02.29.11:085][653]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.04.09-02.29.11:085][653]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.04.09-02.29.11:085][653]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.04.09-02.29.11:085][653]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.04.09-02.29.11:085][653]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.04.09-02.29.11:085][653]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.04.09-02.29.11:085][653]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.04.09-02.29.11:092][653]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.04.09-02.29.11:190][653]LogDerivedDataCache: Shutdown
+[2019.04.09-02.29.11:190][653]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.04.09-02.29.11:190][653]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.04.09-02.29.11:191][653]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.04.09-02.29.11:191][653]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.04.09-02.29.11:191][653]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.04.09-02.29.11:192][653]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.04.09-02.29.11:192][653]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.04.09-02.29.11:192][653]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.04.09-02.29.11:192][653]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.04.09-02.29.11:192][653]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.04.09-02.29.11:192][653]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.04.09-02.29.11:192][653]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.04.09-02.29.11:192][653]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.04.09-02.29.11:193][653]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.04.09-02.29.11:193][653]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.04.09-02.29.11:193][653]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.04.09-02.29.11:193][653]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.04.09-02.29.11:193][653]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.04.09-02.29.11:221][653]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.04.09-02.29.11:221][653]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.04.09-02.29.11:221][653]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.04.09-02.29.11:221][653]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.04.09-02.29.11:221][653]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.04.09-02.29.11:229][653]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.04.09-02.29.11:229][653]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.04.09-02.29.11:236][653]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.04.09-02.29.11:236][653]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.04.09-02.29.11:289][653]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.04.09-02.29.11:289][653]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.04.09-02.29.11:289][653]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.04.09-02.29.11:289][653]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.04.09-02.29.11:289][653]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.04.09-02.29.11:289][653]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.04.09-02.29.11:289][653]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.04.09-02.29.11:289][653]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.04.09-02.29.11:289][653]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.04.09-02.29.11:289][653]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.04.09-02.29.11:289][653]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.04.09-02.29.11:290][653]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.04.09-02.29.11:290][653]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.04.09-02.29.11:290][653]LogHMD: Freeing OpenVRDLLHandle.
+[2019.04.09-02.29.11:290][653]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.04.09-02.29.11:290][653]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.04.09-02.29.11:290][653]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.04.09-02.29.11:290][653]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.04.09-02.29.11:290][653]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.04.09-02.29.11:290][653]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.04.09-02.29.11:290][653]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.04.09-02.29.11:323][653]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.04.09-02.29.11:323][653]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.04.09-02.29.11:323][653]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B2FC2F37F-49FD-4739-6BFF-49BA9850D73C%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=8cf326894ac4ff973a1b6b9e2963ec8f%7C6c53801b826a49c1b7f1b3c944e2a5ed%7C3a57214b-837c-4880-8bb3-1fab2203118e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.04.09-02.29.11:348][653]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.04.09-02.29.11:352][653]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.04.09-02.29.11:352][653]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.04.09-02.29.11:353][653]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.04.09-02.29.11:353][653]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.04.09-02.29.11:353][653]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.04.09-02.29.11:354][653]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.04.09-02.29.11:354][653]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.04.09-02.29.11:355][653]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.04.09-02.29.11:355][653]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.04.09-02.29.11:355][653]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.04.09-02.29.11:356][653]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.04.09-02.29.11:356][653]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.04.09-02.29.11:356][653]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.04.09-02.29.11:356][653]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.04.09-02.29.11:356][653]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.04.09-02.29.11:356][653]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.04.09-02.29.11:356][653]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.04.09-02.29.11:357][653]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.04.09-02.29.11:357][653]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.04.09-02.29.11:357][653]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.04.09-02.29.11:357][653]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.04.09-02.29.11:357][653]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.04.09-02.29.11:357][653]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.04.09-02.29.11:358][653]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.04.09-02.29.11:358][653]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.04.09-02.29.11:358][653]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.04.09-02.29.11:358][653]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.04.09-02.29.11:358][653]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.04.09-02.29.11:365][653]LogExit: Exiting.
+[2019.04.09-02.29.11:386][653]Log file closed, 04/08/19 22:29:11

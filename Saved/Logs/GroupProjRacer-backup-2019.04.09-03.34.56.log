@@ -1,0 +1,1687 @@
+﻿Log file open, 04/08/19 23:21:33
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GroupProjRacer
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.347146
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.170s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz, GPU: NVIDIA GeForce GTX 960
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.04.09-03.21.34:057][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.04.09-03.21.34:057][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.04.09-03.21.34:057][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Engine.ini]
+[2019.04.09-03.21.34:057][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.04.09-03.21.34:057][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Engine.ini]
+[2019.04.09-03.21.34:057][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Engine.ini]
+[2019.04.09-03.21.34:057][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.04.09-03.21.34:057][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.04.09-03.21.34:057][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.04.09-03.21.34:057][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.04.09-03.21.34:057][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.04.09-03.21.34:057][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.04.09-03.21.34:057][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.04.09-03.21.34:057][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.04.09-03.21.34:057][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.04.09-03.21.34:057][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.04.09-03.21.34:057][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.04.09-03.21.34:057][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.04.09-03.21.34:057][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.04.09-03.21.34:057][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Engine.ini]
+[2019.04.09-03.21.34:057][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.04.09-03.21.34:058][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.04.09-03.21.34:058][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.04.09-03.21.34:058][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.04.09-03.21.34:058][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.04.09-03.21.34:058][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.04.09-03.21.34:058][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.04.09-03.21.34:058][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.04.09-03.21.34:058][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.04.09-03.21.34:058][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.04.09-03.21.34:058][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.04.09-03.21.34:058][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.04.09-03.21.34:058][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.04.09-03.21.34:058][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.04.09-03.21.34:058][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Engine.ini]
+[2019.04.09-03.21.34:058][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Engine.ini]
+[2019.04.09-03.21.34:071][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Scalability.ini]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Scalability.ini]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Scalability.ini]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Scalability.ini]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.09-03.21.34:071][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.09-03.21.34:072][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.09-03.21.34:072][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.09-03.21.34:072][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Scalability.ini]
+[2019.04.09-03.21.34:072][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.09-03.21.34:072][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.09-03.21.34:072][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.09-03.21.34:072][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.09-03.21.34:072][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.09-03.21.34:072][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.09-03.21.34:072][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.09-03.21.34:072][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.09-03.21.34:072][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Scalability.ini]
+[2019.04.09-03.21.34:072][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.09-03.21.34:072][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.09-03.21.34:072][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.09-03.21.34:072][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.09-03.21.34:072][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.09-03.21.34:072][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.09-03.21.34:072][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.09-03.21.34:072][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.09-03.21.34:072][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.09-03.21.34:072][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.09-03.21.34:072][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.09-03.21.34:072][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.09-03.21.34:072][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.09-03.21.34:072][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Scalability.ini]
+[2019.04.09-03.21.34:072][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.09-03.21.34:072][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.09-03.21.34:072][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.09-03.21.34:072][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.09-03.21.34:093][  0]LogHAL: Display: Platform has ~ 8 GB [8539336704 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.09-03.21.34:093][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.04.09-03.21.34:093][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.09-03.21.34:093][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Scalability.ini]
+[2019.04.09-03.21.34:093][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Scalability.ini]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Scalability.ini]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Scalability.ini]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Scalability.ini]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Scalability.ini]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Scalability.ini]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.04.09-03.21.34:094][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.04.09-03.21.34:095][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.04.09-03.21.34:095][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Repo/VR-Storytelling-Unreal/Saved/Config/Windows/Engine.ini]
+[2019.04.09-03.21.34:095][  0]LogInit: Computer: YOO-DESKTOP
+[2019.04.09-03.21.34:095][  0]LogInit: User: Steven
+[2019.04.09-03.21.34:095][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.09-03.21.34:095][  0]LogInit: High frequency timer resolution =3.906252 MHz
+[2019.04.09-03.21.34:095][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.04.09-03.21.34:095][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.09-03.21.34:095][  0]LogMemory: Process Physical Memory: 102.10 MB used, 102.10 MB peak
+[2019.04.09-03.21.34:095][  0]LogMemory: Process Virtual Memory: 91.44 MB used, 91.44 MB peak
+[2019.04.09-03.21.34:095][  0]LogMemory: Physical Memory: 5940.05 MB used,  2203.70 MB free, 8143.75 MB total
+[2019.04.09-03.21.34:095][  0]LogMemory: Virtual Memory: 4647.96 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.04.09-03.21.34:145][  0]LogInit: Using OS detected language (en-US).
+[2019.04.09-03.21.34:146][  0]LogInit: Using OS detected locale (en-US).
+[2019.04.09-03.21.34:148][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.04.09-03.21.34:598][  0]LogStreaming: Display: Took  0.453s to InitEngineTextLocalization.
+[2019.04.09-03.21.34:599][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.09-03.21.34:665][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.09-03.21.34:665][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.09-03.21.35:133][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.09-03.21.35:133][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.09-03.21.35:194][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960' (Feature Level 11_0)
+[2019.04.09-03.21.35:194][  0]LogD3D11RHI:       4053/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2019.04.09-03.21.35:197][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.09-03.21.35:197][  0]LogD3D11RHI:       0/0/4071 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.09-03.21.35:197][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.09-03.21.35:206][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.09-03.21.35:206][  0]LogD3D11RHI:     GPU DeviceId: 0x1401 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.09-03.21.35:206][  0]LogWindows: EnumDisplayDevices:
+[2019.04.09-03.21.35:207][  0]LogWindows:    0. 'NVIDIA GeForce GTX 960' (P:1 D:1)
+[2019.04.09-03.21.35:208][  0]LogWindows:    1. 'NVIDIA GeForce GTX 960' (P:0 D:1)
+[2019.04.09-03.21.35:208][  0]LogWindows:    2. 'NVIDIA GeForce GTX 960' (P:0 D:1)
+[2019.04.09-03.21.35:209][  0]LogWindows:    3. 'NVIDIA GeForce GTX 960' (P:0 D:0)
+[2019.04.09-03.21.35:210][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.04.09-03.21.35:210][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960
+[2019.04.09-03.21.35:210][  0]LogD3D11RHI:   Driver Version: 397.44 (internal:24.21.13.9744, unified:397.44)
+[2019.04.09-03.21.35:210][  0]LogD3D11RHI:      Driver Date: 4-26-2018
+[2019.04.09-03.21.35:210][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2019.04.09-03.21.35:261][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.09-03.21.35:279][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.04.09-03.21.35:911][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.09-03.21.35:925][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.09-03.21.35:939][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.09-03.21.35:953][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.09-03.21.35:968][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.09-03.21.35:982][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.09-03.21.35:997][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.09-03.21.36:013][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.09-03.21.36:021][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.09-03.21.36:131][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-03.21.36:131][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-03.21.36:131][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-03.21.36:131][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-03.21.36:131][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-03.21.36:131][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-03.21.36:131][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-03.21.36:131][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-03.21.36:131][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-03.21.36:131][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-03.21.36:131][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-03.21.36:131][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-03.21.36:131][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-03.21.36:131][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-03.21.36:131][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-03.21.36:131][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-03.21.36:131][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-03.21.36:131][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.09-03.21.36:135][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.09-03.21.36:199][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.09-03.21.36:199][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.09-03.21.36:222][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.09-03.21.36:222][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.09-03.21.36:235][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.09-03.21.36:248][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.09-03.21.36:268][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.09-03.21.36:288][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.09-03.21.36:341][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.09-03.21.36:341][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.09-03.21.36:341][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.09-03.21.36:464][  0]LogShaderCompilers: Guid format shader working directory is 17 characters bigger than the processId version (D:/Repo/VR-Storytelling-Unreal/Intermediate/Shaders/WorkingDirectory/1552/).
+[2019.04.09-03.21.36:464][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Steven/AppData/Local/Temp/UnrealShaderWorkingDir/A2B35C3746E66BE43D57FCA3B3D4072E/'.
+[2019.04.09-03.21.36:468][  0]LogXGEController: Cleaning working directory: C:/Users/Steven/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.09-03.21.36:468][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.09-03.21.36:468][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.09-03.21.36:468][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.09-03.21.37:102][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.09-03.21.37:299][  0]LogDerivedDataCache: Loaded boot cache 0.20s 71MB C:/Users/Steven/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.09-03.21.37:299][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Steven/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.04.09-03.21.37:299][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Repo/VR-Storytelling-Unreal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.09-03.21.37:299][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.09-03.21.37:299][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Repo/VR-Storytelling-Unreal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.09-03.21.37:299][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.09-03.21.37:314][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.09-03.21.37:314][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.09-03.21.37:314][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.04.09-03.21.37:327][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Steven/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.09-03.21.37:327][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.09-03.21.37:327][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.09-03.21.37:352][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.09-03.21.37:353][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.09-03.21.37:355][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.09-03.21.37:504][  0]LogAssetRegistry: FAssetRegistry took 0.0323 seconds to start up
+[2019.04.09-03.21.37:876][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.09-03.21.38:052][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.09-03.21.38:060][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.09-03.21.38:060][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.09-03.21.38:060][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.09-03.21.38:060][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.09-03.21.38:081][  0]LogNetVersion: GroupProjRacer 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 726259045)
+[2019.04.09-03.21.38:664][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.064336 seconds
+[2019.04.09-03.21.38:670][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.04.09-03.21.38:670][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.04.09-03.21.38:670][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.09-03.21.40:246][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.09-03.21.40:261][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.09-03.21.41:154][  0]SourceControl: Source control is disabled
+[2019.04.09-03.21.41:154][  0]SourceControl: Source control is disabled
+[2019.04.09-03.21.41:158][  0]SourceControl: Source control is disabled
+[2019.04.09-03.21.41:161][  0]SourceControl: Source control is disabled
+[2019.04.09-03.21.41:408][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.09-03.21.41:544][  0]LogOcInput: OculusInput pre-init called
+[2019.04.09-03.21.41:701][  0]LogEngine: Initializing Engine...
+[2019.04.09-03.21.41:703][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.04.09-03.21.41:705][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.09-03.21.41:705][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.09-03.21.41:705][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.09-03.21.41:705][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.09-03.21.41:994][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.09-03.21.42:024][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.09-03.21.42:057][  0]LogInit: XAudio2 using '2D HD LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.09-03.21.42:110][  0]LogInit: FAudioDevice initialized.
+[2019.04.09-03.21.42:111][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.09-03.21.42:205][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/Steven/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.04.09-03.21.42:205][  0]LogInit: Texture streaming: Enabled
+[2019.04.09-03.21.42:235][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.09-03.21.42:255][  0]LogInit: Transaction tracking system initialized
+[2019.04.09-03.21.42:300][  0]BlueprintLog: New page: Editor Load
+[2019.04.09-03.21.42:439][  0]LocalizationService: Localization service is disabled
+[2019.04.09-03.21.42:987][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.09-03.21.42:987][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.09-03.21.42:987][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.09-03.21.42:987][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.09-03.21.42:987][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.09-03.21.42:987][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.09-03.21.42:987][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.09-03.21.43:217][  0]LogFileCache: Scanning file cache for directory 'D:/Repo/VR-Storytelling-Unreal/Content/' took 0.06s
+[2019.04.09-03.21.43:217][  0]SourceControl: Source control is disabled
+[2019.04.09-03.21.43:217][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.09-03.21.43:218][  0]LightingResults: New page: Lighting Build
+[2019.04.09-03.21.43:223][  0]MapCheck: New page: Map Check
+[2019.04.09-03.21.43:223][  0]LightingResults: New page: Lighting Build
+[2019.04.09-03.21.43:397][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2019.04.09-03.21.43:403][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.09-03.21.43:426][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.09-03.21.43:427][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.098ms to complete.
+[2019.04.09-03.21.43:427][  0]LogFileHelpers: Loading map 'Template_Default' took 0.209
+[2019.04.09-03.21.43:536][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.09-03.21.43:543][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.09-03.21.43:549][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.09-03.21.43:555][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.09-03.21.43:568][  0]LogCollectionManager: Loaded 0 collections in 0.006247 seconds
+[2019.04.09-03.21.43:587][  0]LogFileCache: Scanning file cache for directory 'D:/Repo/VR-Storytelling-Unreal/Saved/Collections/' took 0.01s
+[2019.04.09-03.21.43:587][  0]LogFileCache: Scanning file cache for directory 'D:/Repo/VR-Storytelling-Unreal/Content/Developers/Steven/Collections/' took 0.00s
+[2019.04.09-03.21.43:587][  0]LogFileCache: Scanning file cache for directory 'D:/Repo/VR-Storytelling-Unreal/Content/Collections/' took 0.00s
+[2019.04.09-03.21.43:587][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.09-03.21.43:595][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 2651 classes and 620 folders.
+[2019.04.09-03.21.43:605][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.09-03.21.43:609][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-03.21.43:611][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-03.21.43:613][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-03.21.43:614][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-03.21.43:616][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-03.21.43:617][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-03.21.43:619][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-03.21.43:621][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-03.21.43:622][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-03.21.43:624][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-03.21.43:626][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-03.21.43:627][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-03.21.43:629][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-03.21.43:630][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-03.21.43:632][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-03.21.43:634][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-03.21.43:635][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-03.21.43:637][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-03.21.43:638][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-03.21.43:640][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-03.21.43:641][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-03.21.43:643][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-03.21.43:645][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-03.21.43:646][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-03.21.43:648][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-03.21.43:650][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.04.09-03.21.43:751][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.09-03.21.43:758][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.04.09-03.21.43:772][  0]LogSlate: Took 0.000940 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.09-03.21.43:776][  0]LogSlate: Took 0.000999 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.09-03.21.43:782][  0]LogSlate: Took 0.000786 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.09-03.21.43:859][  0]LogRenderer: Reallocating scene render targets to support 1056x556 Format 10 NumSamples 1 (Frame:1).
+[2019.04.09-03.21.43:977][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.09-03.21.43:977][  0]LogLoad: (Engine Initialization) Total time: 13.62 seconds
+[2019.04.09-03.21.43:977][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.09-03.21.43:987][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.09-03.21.44:069][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.09-03.21.44:123][  1]LogAssetRegistry: Asset discovery search completed in 6.6408 seconds
+[2019.04.09-03.21.44:125][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.04.09-03.21.44:125][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000061 seconds (updated 0 objects)
+[2019.04.09-03.21.48:111][471]LogSlate: Took 0.000865 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.09-03.21.48:310][491]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-03.22.13:410][492]Cmd: MAP LOAD FILE="D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.09-03.22.13:414][492]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.09-03.22.13:423][492]LightingResults: New page: Lighting Build
+[2019.04.09-03.22.13:424][492]LoadErrors: New page: Loading map: BEDROOM.umap
+[2019.04.09-03.22.13:426][492]MapCheck: New page: Map Check
+[2019.04.09-03.22.13:426][492]LightingResults: New page: Lighting Build
+[2019.04.09-03.22.13:452][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Air_Conditioner'
+[2019.04.09-03.22.13:452][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Air_Conditioner' while loading D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap.
+[2019.04.09-03.22.13:452][492]LoadErrors: Error: /Game/BEDROOM : Can't find file for asset. /Game/Assets/modular_house_collection/Bedroom/Models/Air_Conditioner
+[2019.04.09-03.22.13:452][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Bed'
+[2019.04.09-03.22.13:452][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Bed' while loading D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap.
+[2019.04.09-03.22.13:452][492]LoadErrors: Error: /Game/BEDROOM : Can't find file for asset. /Game/Assets/modular_house_collection/Bedroom/Models/Bed
+[2019.04.09-03.22.13:452][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Box'
+[2019.04.09-03.22.13:452][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Box' while loading D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap.
+[2019.04.09-03.22.13:452][492]LoadErrors: Error: /Game/BEDROOM : Can't find file for asset. /Game/Assets/modular_house_collection/Bedroom/Models/Box
+[2019.04.09-03.22.13:453][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Dresser'
+[2019.04.09-03.22.13:453][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Dresser' while loading D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap.
+[2019.04.09-03.22.13:453][492]LoadErrors: Error: /Game/BEDROOM : Can't find file for asset. /Game/Assets/modular_house_collection/Bedroom/Models/Dresser
+[2019.04.09-03.22.13:453][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Lampshade'
+[2019.04.09-03.22.13:453][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Lampshade' while loading D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap.
+[2019.04.09-03.22.13:453][492]LoadErrors: Error: /Game/BEDROOM : Can't find file for asset. /Game/Assets/modular_house_collection/Bedroom/Models/Lampshade
+[2019.04.09-03.22.13:453][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Suitcase'
+[2019.04.09-03.22.13:453][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Suitcase' while loading D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap.
+[2019.04.09-03.22.13:453][492]LoadErrors: Error: /Game/BEDROOM : Can't find file for asset. /Game/Assets/modular_house_collection/Bedroom/Models/Suitcase
+[2019.04.09-03.22.13:453][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Walls_and_Floor'
+[2019.04.09-03.22.13:454][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Walls_and_Floor' while loading D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap.
+[2019.04.09-03.22.13:454][492]LoadErrors: Error: /Game/BEDROOM : Can't find file for asset. /Game/Assets/modular_house_collection/Bedroom/Models/Walls_and_Floor
+[2019.04.09-03.22.13:454][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Wardrobe'
+[2019.04.09-03.22.13:454][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Wardrobe' while loading D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap.
+[2019.04.09-03.22.13:454][492]LoadErrors: Error: /Game/BEDROOM : Can't find file for asset. /Game/Assets/modular_house_collection/Bedroom/Models/Wardrobe
+[2019.04.09-03.22.13:454][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_1'
+[2019.04.09-03.22.13:454][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_1' while loading D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap.
+[2019.04.09-03.22.13:454][492]LoadErrors: Error: /Game/BEDROOM : Can't find file for asset. /Game/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_1
+[2019.04.09-03.22.13:454][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_2'
+[2019.04.09-03.22.13:454][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_2' while loading D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap.
+[2019.04.09-03.22.13:454][492]LoadErrors: Error: /Game/BEDROOM : Can't find file for asset. /Game/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_2
+[2019.04.09-03.22.13:455][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Air_Conditioner'
+[2019.04.09-03.22.13:455][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Air_Conditioner' while loading D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap.
+[2019.04.09-03.22.13:455][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Bed'
+[2019.04.09-03.22.13:456][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Bed' while loading D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap.
+[2019.04.09-03.22.13:456][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Box'
+[2019.04.09-03.22.13:456][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Box' while loading D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap.
+[2019.04.09-03.22.13:456][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Dresser'
+[2019.04.09-03.22.13:456][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Dresser' while loading D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap.
+[2019.04.09-03.22.13:456][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Lampshade'
+[2019.04.09-03.22.13:456][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Lampshade' while loading D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap.
+[2019.04.09-03.22.13:456][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Suitcase'
+[2019.04.09-03.22.13:456][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Suitcase' while loading D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap.
+[2019.04.09-03.22.13:457][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Walls_and_Floor'
+[2019.04.09-03.22.13:457][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Walls_and_Floor' while loading D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap.
+[2019.04.09-03.22.13:457][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Wardrobe'
+[2019.04.09-03.22.13:457][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Wardrobe' while loading D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap.
+[2019.04.09-03.22.13:457][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_1'
+[2019.04.09-03.22.13:457][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_1' while loading D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap.
+[2019.04.09-03.22.13:457][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_2'
+[2019.04.09-03.22.13:457][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_2' while loading D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap.
+[2019.04.09-03.22.13:458][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Air_Conditioner'
+[2019.04.09-03.22.13:458][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Air_Conditioner' while loading NULL.
+[2019.04.09-03.22.13:458][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Bed'
+[2019.04.09-03.22.13:458][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Bed' while loading NULL.
+[2019.04.09-03.22.13:459][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Box'
+[2019.04.09-03.22.13:459][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Box' while loading NULL.
+[2019.04.09-03.22.13:459][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Dresser'
+[2019.04.09-03.22.13:459][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Dresser' while loading NULL.
+[2019.04.09-03.22.13:459][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Lampshade'
+[2019.04.09-03.22.13:459][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Lampshade' while loading NULL.
+[2019.04.09-03.22.13:459][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Suitcase'
+[2019.04.09-03.22.13:459][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Suitcase' while loading NULL.
+[2019.04.09-03.22.13:459][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Walls_and_Floor'
+[2019.04.09-03.22.13:459][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Walls_and_Floor' while loading NULL.
+[2019.04.09-03.22.13:459][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Wardrobe'
+[2019.04.09-03.22.13:460][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Wardrobe' while loading NULL.
+[2019.04.09-03.22.13:460][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_1'
+[2019.04.09-03.22.13:460][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_1' while loading NULL.
+[2019.04.09-03.22.13:460][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_2'
+[2019.04.09-03.22.13:460][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_2' while loading NULL.
+[2019.04.09-03.22.13:460][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Air_Conditioner'
+[2019.04.09-03.22.13:460][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Air_Conditioner' while loading NULL.
+[2019.04.09-03.22.13:460][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Bed'
+[2019.04.09-03.22.13:460][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Bed' while loading NULL.
+[2019.04.09-03.22.13:460][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Box'
+[2019.04.09-03.22.13:460][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Box' while loading NULL.
+[2019.04.09-03.22.13:461][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Dresser'
+[2019.04.09-03.22.13:461][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Dresser' while loading NULL.
+[2019.04.09-03.22.13:461][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Lampshade'
+[2019.04.09-03.22.13:461][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Lampshade' while loading NULL.
+[2019.04.09-03.22.13:461][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Suitcase'
+[2019.04.09-03.22.13:461][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Suitcase' while loading NULL.
+[2019.04.09-03.22.13:461][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Walls_and_Floor'
+[2019.04.09-03.22.13:461][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Walls_and_Floor' while loading NULL.
+[2019.04.09-03.22.13:461][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Wardrobe'
+[2019.04.09-03.22.13:461][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Wardrobe' while loading NULL.
+[2019.04.09-03.22.13:462][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_1'
+[2019.04.09-03.22.13:462][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_1' while loading NULL.
+[2019.04.09-03.22.13:462][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_2'
+[2019.04.09-03.22.13:462][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_2' while loading NULL.
+[2019.04.09-03.22.13:465][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Air_Conditioner'
+[2019.04.09-03.22.13:466][492]LoadErrors: Failed to load /Game/Assets/modular_house_collection/Bedroom/Models/Air_Conditioner.Air_Conditioner Referenced by Air_Conditioner_56
+[2019.04.09-03.22.13:466][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Air_Conditioner' while loading NULL.
+[2019.04.09-03.22.13:466][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Bed'
+[2019.04.09-03.22.13:466][492]LoadErrors: Failed to load /Game/Assets/modular_house_collection/Bedroom/Models/Bed.Bed Referenced by Bed_58
+[2019.04.09-03.22.13:466][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Bed' while loading NULL.
+[2019.04.09-03.22.13:466][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Box'
+[2019.04.09-03.22.13:466][492]LoadErrors: Failed to load /Game/Assets/modular_house_collection/Bedroom/Models/Box.Box Referenced by Box_60
+[2019.04.09-03.22.13:466][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Box' while loading NULL.
+[2019.04.09-03.22.13:466][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Dresser'
+[2019.04.09-03.22.13:466][492]LoadErrors: Failed to load /Game/Assets/modular_house_collection/Bedroom/Models/Dresser.Dresser Referenced by Dresser_62
+[2019.04.09-03.22.13:466][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Dresser' while loading NULL.
+[2019.04.09-03.22.13:467][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Lampshade'
+[2019.04.09-03.22.13:467][492]LoadErrors: Failed to load /Game/Assets/modular_house_collection/Bedroom/Models/Lampshade.Lampshade Referenced by Lampshade_64
+[2019.04.09-03.22.13:467][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Lampshade' while loading NULL.
+[2019.04.09-03.22.13:467][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Suitcase'
+[2019.04.09-03.22.13:467][492]LoadErrors: Failed to load /Game/Assets/modular_house_collection/Bedroom/Models/Suitcase.Suitcase Referenced by Suitcase_66
+[2019.04.09-03.22.13:467][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Suitcase' while loading NULL.
+[2019.04.09-03.22.13:467][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Walls_and_Floor'
+[2019.04.09-03.22.13:467][492]LoadErrors: Failed to load /Game/Assets/modular_house_collection/Bedroom/Models/Walls_and_Floor.Walls_and_Floor Referenced by Walls_and_Floor_68
+[2019.04.09-03.22.13:467][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Walls_and_Floor' while loading NULL.
+[2019.04.09-03.22.13:468][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Wardrobe'
+[2019.04.09-03.22.13:468][492]LoadErrors: Failed to load /Game/Assets/modular_house_collection/Bedroom/Models/Wardrobe.Wardrobe Referenced by Wardrobe_70
+[2019.04.09-03.22.13:468][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Wardrobe' while loading NULL.
+[2019.04.09-03.22.13:468][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_1'
+[2019.04.09-03.22.13:468][492]LoadErrors: Failed to load /Game/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_1.Windows_Frame_1 Referenced by Windows_Frame_72
+[2019.04.09-03.22.13:468][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_1' while loading NULL.
+[2019.04.09-03.22.13:469][492]LogLinker: Warning: Can't find file '/Game/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_2'
+[2019.04.09-03.22.13:469][492]LoadErrors: Failed to load /Game/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_2.Windows_Frame_2 Referenced by Windows_Frame_74
+[2019.04.09-03.22.13:469][492]LogLinker: Warning: Can't find file for asset '/Game/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_2' while loading NULL.
+[2019.04.09-03.22.13:473][492]LogAIModule: Creating AISystem for world BEDROOM
+[2019.04.09-03.22.13:480][492]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.09-03.22.13:522][492]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.09-03.22.13:522][492]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.078ms to complete.
+[2019.04.09-03.22.13:522][492]LogFileHelpers: Loading map 'BEDROOM' took 0.113
+[2019.04.09-03.22.13:524][492]LogSlate: Window 'Open Level' being destroyed
+[2019.04.09-03.23.40:268][543]AssetReimport: New page: Outstanding source content changes 7:23:40 PM
+[2019.04.09-03.23.40:269][543]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Textures/Windows Frames.png)
+[2019.04.09-03.23.40:274][543]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Textures/Wardrobe.png)
+[2019.04.09-03.23.40:298][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Textures/Walls and Floor.png)
+[2019.04.09-03.23.40:303][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Textures/Suitcase.png)
+[2019.04.09-03.23.40:309][544]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Textures/Lampshade.png)
+[2019.04.09-03.23.40:326][545]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Textures/Dresser.png)
+[2019.04.09-03.23.40:333][545]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Textures/Box.png)
+[2019.04.09-03.23.40:338][545]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Textures/Bed.png)
+[2019.04.09-03.23.40:355][546]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Textures/Air Conditioner.png)
+[2019.04.09-03.23.40:361][546]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Windows Frame 2.fbx)
+[2019.04.09-03.23.40:371][546]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Windows Frame 2.fbx
+[2019.04.09-03.23.40:376][546]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-03.23.46:542][546]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-03.23.46:829][546]LogStaticMesh: Building static mesh Windows_Frame_2...
+[2019.04.09-03.23.46:834][546]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_2.Windows_Frame_2
+[2019.04.09-03.23.46:885][547]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Windows Frame 1.fbx)
+[2019.04.09-03.23.46:903][547]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Windows Frame 1.fbx
+[2019.04.09-03.23.46:909][547]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-03.23.47:678][547]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-03.23.47:705][547]LogStaticMesh: Building static mesh Windows_Frame_1...
+[2019.04.09-03.23.47:710][547]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_1.Windows_Frame_1
+[2019.04.09-03.23.47:767][548]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Wardrobe.fbx)
+[2019.04.09-03.23.47:778][548]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Wardrobe.fbx
+[2019.04.09-03.23.47:784][548]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-03.23.48:476][548]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-03.23.48:540][548]LogStaticMesh: Building static mesh Wardrobe...
+[2019.04.09-03.23.48:552][548]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/modular_house_collection/Bedroom/Models/Wardrobe.Wardrobe
+[2019.04.09-03.23.48:585][549]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Walls and Floor.fbx)
+[2019.04.09-03.23.48:601][549]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Walls and Floor.fbx
+[2019.04.09-03.23.48:609][549]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-03.23.49:339][549]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-03.23.49:388][549]LogStaticMesh: Building static mesh Walls_and_Floor...
+[2019.04.09-03.23.49:391][549]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/modular_house_collection/Bedroom/Models/Walls_and_Floor.Walls_and_Floor
+[2019.04.09-03.23.49:413][550]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Suitcase.fbx)
+[2019.04.09-03.23.49:429][550]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Suitcase.fbx
+[2019.04.09-03.23.49:438][550]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-03.23.50:168][550]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-03.23.50:250][550]LogStaticMesh: Building static mesh Suitcase...
+[2019.04.09-03.23.50:263][550]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/modular_house_collection/Bedroom/Models/Suitcase.Suitcase
+[2019.04.09-03.23.50:287][551]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.04.09-03.23.50:290][551]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Lampshade.fbx)
+[2019.04.09-03.23.50:303][551]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Lampshade.fbx
+[2019.04.09-03.23.50:309][551]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-03.23.50:941][551]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-03.23.51:009][551]LogStaticMesh: Building static mesh Lampshade...
+[2019.04.09-03.23.51:019][551]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/modular_house_collection/Bedroom/Models/Lampshade.Lampshade
+[2019.04.09-03.23.51:061][552]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Dresser.fbx)
+[2019.04.09-03.23.51:084][552]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Dresser.fbx
+[2019.04.09-03.23.51:095][552]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-03.23.51:773][552]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-03.23.51:835][552]LogStaticMesh: Building static mesh Dresser...
+[2019.04.09-03.23.51:845][552]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/modular_house_collection/Bedroom/Models/Dresser.Dresser
+[2019.04.09-03.23.51:878][553]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Box.fbx)
+[2019.04.09-03.23.51:894][553]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Box.fbx
+[2019.04.09-03.23.51:903][553]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-03.23.52:491][553]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-03.23.52:549][553]LogStaticMesh: Building static mesh Box...
+[2019.04.09-03.23.52:551][553]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/modular_house_collection/Bedroom/Models/Box.Box
+[2019.04.09-03.23.52:590][554]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Bed.fbx)
+[2019.04.09-03.23.52:609][554]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Bed.fbx
+[2019.04.09-03.23.52:627][554]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-03.23.53:188][554]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-03.23.53:310][554]LogStaticMesh: Building static mesh Bed...
+[2019.04.09-03.23.53:331][554]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/modular_house_collection/Bedroom/Models/Bed.Bed
+[2019.04.09-03.23.53:358][555]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Air Conditioner.fbx)
+[2019.04.09-03.23.53:370][555]LogFbx: Loading FBX Scene from D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Air Conditioner.fbx
+[2019.04.09-03.23.53:378][555]LogFbx: FBX Scene Loaded Succesfully
+[2019.04.09-03.23.53:944][555]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.04.09-03.23.53:994][555]LogStaticMesh: Building static mesh Air_Conditioner...
+[2019.04.09-03.23.54:001][555]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/modular_house_collection/Bedroom/Models/Air_Conditioner.Air_Conditioner
+[2019.04.09-03.23.54:077][556]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Windows_Frames655F2D5F4BFED527D037438283A274F7.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Textures/Windows_Frames.uasset'
+[2019.04.09-03.23.54:098][556]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Wardrobe4FCE0B1D4BDF16CFE30115A4DC1A11CD.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Textures/Wardrobe.uasset'
+[2019.04.09-03.23.54:119][556]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Walls_and_FloorD37FC080437922A821E0BF860088FC94.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Textures/Walls_and_Floor.uasset'
+[2019.04.09-03.23.54:142][556]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Suitcase9F5EB8B54CA3D300F9E63FA2891B7144.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Textures/Suitcase.uasset'
+[2019.04.09-03.23.54:168][556]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/LampshadeE13428044EB3E65746C1E0A541057911.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Textures/Lampshade.uasset'
+[2019.04.09-03.23.54:189][556]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/DresserC365FAEA42ADEE38A65B40897D37A634.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Textures/Dresser.uasset'
+[2019.04.09-03.23.54:204][556]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Box99C0E91B4BE837B782F4908F6E8D76E6.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Textures/Box.uasset'
+[2019.04.09-03.23.54:225][556]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/BedF6AF881C4A007DFEA70212B695C046C9.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Textures/Bed.uasset'
+[2019.04.09-03.23.54:249][556]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Air_Conditioner7B7EFC834564683E0D65D1B14908DB53.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Textures/Air_Conditioner.uasset'
+[2019.04.09-03.23.54:300][556]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Windows_Frame_22B1B8E58482FEF58A9AF259B0E626586.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_2.uasset'
+[2019.04.09-03.23.54:356][556]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Windows_Frame_11135D84B4F887288C5936BBD028B0513.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_1.uasset'
+[2019.04.09-03.23.54:415][556]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/WardrobeE702A5BE45AE7B73BDB2C1891D73BD65.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Wardrobe.uasset'
+[2019.04.09-03.23.54:473][556]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Walls_and_Floor78441DCC4B3AA3551EE474B26712711A.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Walls_and_Floor.uasset'
+[2019.04.09-03.23.54:500][556]LogShaderCompilers: Display: Shaders left to compile 106
+[2019.04.09-03.23.54:526][556]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/SuitcaseE1E4D55A479EC43AB32D97A344BE9061.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Suitcase.uasset'
+[2019.04.09-03.23.54:572][556]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Lampshade388A229E46F55D53F5655C9968AE017A.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Lampshade.uasset'
+[2019.04.09-03.23.54:630][556]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Dresser536B7F36405F4CE73608ABA0823B9EF3.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Dresser.uasset'
+[2019.04.09-03.23.54:666][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/modular_house_collection/Bedroom/Models/Box" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Box.uasset" SILENT=true
+[2019.04.09-03.23.54:690][556]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Box5904B00D41E1765748118EB660BFEA76.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Box.uasset'
+[2019.04.09-03.23.54:716][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/modular_house_collection/Bedroom/Models/Bed" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Bed.uasset" SILENT=true
+[2019.04.09-03.23.54:731][556]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/BedE5A8E2D2402D91761D2B01BECDB1FEAC.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Bed.uasset'
+[2019.04.09-03.23.54:771][556]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Air_Conditioner918CF88A45F0B01AED48118639123791.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Air_Conditioner.uasset'
+[2019.04.09-03.23.54:962][558]LogShaderCompilers: Display: Shaders left to compile 96
+[2019.04.09-03.23.55:476][582]LogShaderCompilers: Display: Shaders left to compile 86
+[2019.04.09-03.23.56:519][674]LogSlate: Window 'Message Log' being destroyed
+[2019.04.09-03.23.56:524][674]LogSlate: Window 'Message Log' being destroyed
+[2019.04.09-03.23.56:921][712]LogShaderCompilers: Display: Shaders left to compile 76
+[2019.04.09-03.23.57:536][758]LogShaderCompilers: Display: Shaders left to compile 66
+[2019.04.09-03.23.57:795][776]AssetReimport: Importing new asset /Game/Assets/modular_house_collection/Bedroom/Textures/Windows_Frames.
+[2019.04.09-03.23.57:795][776]AssetReimport: Importing new asset /Game/Assets/modular_house_collection/Bedroom/Textures/Wardrobe.
+[2019.04.09-03.23.57:795][776]AssetReimport: Importing new asset /Game/Assets/modular_house_collection/Bedroom/Textures/Walls_and_Floor.
+[2019.04.09-03.23.57:795][776]AssetReimport: Importing new asset /Game/Assets/modular_house_collection/Bedroom/Textures/Suitcase.
+[2019.04.09-03.23.57:795][776]AssetReimport: Importing new asset /Game/Assets/modular_house_collection/Bedroom/Textures/Lampshade.
+[2019.04.09-03.23.57:795][776]AssetReimport: Importing new asset /Game/Assets/modular_house_collection/Bedroom/Textures/Dresser.
+[2019.04.09-03.23.57:795][776]AssetReimport: Importing new asset /Game/Assets/modular_house_collection/Bedroom/Textures/Box.
+[2019.04.09-03.23.57:795][776]AssetReimport: Importing new asset /Game/Assets/modular_house_collection/Bedroom/Textures/Bed.
+[2019.04.09-03.23.57:795][776]AssetReimport: Importing new asset /Game/Assets/modular_house_collection/Bedroom/Textures/Air_Conditioner.
+[2019.04.09-03.23.57:795][776]AssetReimport: Importing new asset /Game/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_2.
+[2019.04.09-03.23.57:796][776]AssetReimport: Importing new asset /Game/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_1.
+[2019.04.09-03.23.57:796][776]AssetReimport: Importing new asset /Game/Assets/modular_house_collection/Bedroom/Models/Wardrobe.
+[2019.04.09-03.23.57:796][776]AssetReimport: Importing new asset /Game/Assets/modular_house_collection/Bedroom/Models/Walls_and_Floor.
+[2019.04.09-03.23.57:796][776]AssetReimport: Importing new asset /Game/Assets/modular_house_collection/Bedroom/Models/Suitcase.
+[2019.04.09-03.23.57:796][776]AssetReimport: Importing new asset /Game/Assets/modular_house_collection/Bedroom/Models/Lampshade.
+[2019.04.09-03.23.57:796][776]AssetReimport: Importing new asset /Game/Assets/modular_house_collection/Bedroom/Models/Dresser.
+[2019.04.09-03.23.57:796][776]AssetReimport: Importing new asset /Game/Assets/modular_house_collection/Bedroom/Models/Box.
+[2019.04.09-03.23.57:796][776]AssetReimport: Importing new asset /Game/Assets/modular_house_collection/Bedroom/Models/Bed.
+[2019.04.09-03.23.57:796][776]AssetReimport: Importing new asset /Game/Assets/modular_house_collection/Bedroom/Models/Air_Conditioner.
+[2019.04.09-03.23.58:008][793]LogShaderCompilers: Display: Shaders left to compile 56
+[2019.04.09-03.23.58:370][819]LogShaderCompilers: Display: Shaders left to compile 46
+[2019.04.09-03.23.59:900][940]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.04.09-03.24.00:421][993]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.04.09-03.24.00:706][ 22]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.09-03.24.02:069][154]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.09-03.24.09:791][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-03.24.12:586][246]LogActorFactory: Actor Factory created Air_Conditioner
+[2019.04.09-03.24.12:587][246]LogActorFactory: Actor Factory created Bed
+[2019.04.09-03.24.12:588][246]LogActorFactory: Actor Factory created Box
+[2019.04.09-03.24.12:589][246]LogActorFactory: Actor Factory created Dresser
+[2019.04.09-03.24.12:590][246]LogActorFactory: Actor Factory created Lampshade
+[2019.04.09-03.24.12:591][246]LogActorFactory: Actor Factory created Suitcase
+[2019.04.09-03.24.12:591][246]LogActorFactory: Actor Factory created Walls_and_Floor
+[2019.04.09-03.24.12:592][246]LogActorFactory: Actor Factory created Wardrobe
+[2019.04.09-03.24.12:593][246]LogActorFactory: Actor Factory created Windows_Frame_1
+[2019.04.09-03.24.12:593][246]LogActorFactory: Actor Factory created Windows_Frame_2
+[2019.04.09-03.24.13:584][299]LogActorFactory: Actor Factory created Air_Conditioner
+[2019.04.09-03.24.13:585][299]LogActorFactory: Actor Factory created Bed
+[2019.04.09-03.24.13:585][299]LogActorFactory: Actor Factory created Box
+[2019.04.09-03.24.13:586][299]LogActorFactory: Actor Factory created Dresser
+[2019.04.09-03.24.13:587][299]LogActorFactory: Actor Factory created Lampshade
+[2019.04.09-03.24.13:588][299]LogActorFactory: Actor Factory created Suitcase
+[2019.04.09-03.24.13:589][299]LogActorFactory: Actor Factory created Walls_and_Floor
+[2019.04.09-03.24.13:589][299]LogActorFactory: Actor Factory created Wardrobe
+[2019.04.09-03.24.13:590][299]LogActorFactory: Actor Factory created Windows_Frame_1
+[2019.04.09-03.24.13:590][299]LogActorFactory: Actor Factory created Windows_Frame_2
+[2019.04.09-03.24.14:222][345]LogActorFactory: Actor Factory created Air_Conditioner
+[2019.04.09-03.24.14:223][345]LogActorFactory: Actor Factory created Bed
+[2019.04.09-03.24.14:223][345]LogActorFactory: Actor Factory created Box
+[2019.04.09-03.24.14:224][345]LogActorFactory: Actor Factory created Dresser
+[2019.04.09-03.24.14:225][345]LogActorFactory: Actor Factory created Lampshade
+[2019.04.09-03.24.14:226][345]LogActorFactory: Actor Factory created Suitcase
+[2019.04.09-03.24.14:227][345]LogActorFactory: Actor Factory created Walls_and_Floor
+[2019.04.09-03.24.14:227][345]LogActorFactory: Actor Factory created Wardrobe
+[2019.04.09-03.24.14:228][345]LogActorFactory: Actor Factory created Windows_Frame_1
+[2019.04.09-03.24.14:228][345]LogActorFactory: Actor Factory created Windows_Frame_2
+[2019.04.09-03.24.16:504][493]LogActorFactory: Actor Factory created Air_Conditioner
+[2019.04.09-03.24.16:525][493]LogActorFactory: Actor Factory created Bed
+[2019.04.09-03.24.16:539][493]LogActorFactory: Actor Factory created Box
+[2019.04.09-03.24.16:554][493]LogActorFactory: Actor Factory created Dresser
+[2019.04.09-03.24.16:568][493]LogActorFactory: Actor Factory created Lampshade
+[2019.04.09-03.24.16:583][493]LogActorFactory: Actor Factory created Suitcase
+[2019.04.09-03.24.16:597][493]LogActorFactory: Actor Factory created Walls_and_Floor
+[2019.04.09-03.24.16:611][493]LogActorFactory: Actor Factory created Wardrobe
+[2019.04.09-03.24.16:625][493]LogActorFactory: Actor Factory created Windows_Frame_1
+[2019.04.09-03.24.16:640][493]LogActorFactory: Actor Factory created Windows_Frame_2
+[2019.04.09-03.24.20:753][938]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-03.24.31:043][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls_and_Floor2)
+[2019.04.09-03.24.31:271][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-03.24.39:375][ 44]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.09-03.24.41:110][235]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.09-03.24.41:115][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BEDROOM" FILE="D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.09-03.24.41:226][235]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/BEDROOMB5634AB44234FC5FB9D10F883C94B68B.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap'
+[2019.04.09-03.24.41:237][235]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BEDROOM_BuiltData" FILE="D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM_BuiltData.uasset" SILENT=true
+[2019.04.09-03.24.41:251][235]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/BEDROOM_BuiltData38669B454DAD5A9F6AC1189ABE7E4AD2.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM_BuiltData.uasset'
+[2019.04.09-03.24.42:116][328]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Abajour032B1E784C2DF19EFFFCFC8AEA6288B2.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Abajour.uasset'
+[2019.04.09-03.24.42:125][328]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Air_Conditioner6C74960D4F88CF89D190A99BBF814931.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Air_Conditioner.uasset'
+[2019.04.09-03.24.42:128][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/modular_house_collection/Bedroom/Models/Bed" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Bed.uasset" SILENT=true
+[2019.04.09-03.24.42:134][328]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Bed905E99874894490ED8171BA7D3A223B5.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Bed.uasset'
+[2019.04.09-03.24.42:165][328]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Bed1CC27CC744C5AE5D352574E82228786BD.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Bed1.uasset'
+[2019.04.09-03.24.42:169][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/modular_house_collection/Bedroom/Models/Box" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Box.uasset" SILENT=true
+[2019.04.09-03.24.42:174][328]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Box1E2FA4764D173236013859927B6794A9.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Box.uasset'
+[2019.04.09-03.24.42:199][328]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Boxes0C678CCF4CFF6AA2F76EED8AE4F4005B.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Boxes.uasset'
+[2019.04.09-03.24.42:227][328]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Branco_0013A416CD64486405FDBE53D9B25BC4788.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Branco_001.uasset'
+[2019.04.09-03.24.42:236][328]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/DresserF950D977416C660798186F8F274783B7.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Dresser.uasset'
+[2019.04.09-03.24.42:266][328]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Dresser1F42C6BF740D49E4815EBF9942FAB4EE9.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Dresser1.uasset'
+[2019.04.09-03.24.42:293][328]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Guarda-Roupas8BFC36304D9EB38AD1F697B7DA182C1A.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Guarda-Roupas.uasset'
+[2019.04.09-03.24.42:302][328]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/LampshadeEE3D2D8A4B2C2CCF07AED0951BDD1118.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Lampshade.uasset'
+[2019.04.09-03.24.42:328][328]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Mala4D5D65884AE03074687793B9C42E8778.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Mala.uasset'
+[2019.04.09-03.24.42:355][328]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/PlasticoBrancoDC4706364BDAD9842BEA31B5A728AAA3.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/PlasticoBranco.uasset'
+[2019.04.09-03.24.42:364][328]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/SuitcaseD0CB34F941DABB76FF76AE98540C5E18.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Suitcase.uasset'
+[2019.04.09-03.24.42:372][328]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Walls_and_FloorF13A896948882DCB96650DB578EC0C3D.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Walls_and_Floor.uasset'
+[2019.04.09-03.24.42:398][328]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Walls_and_Floor107B4BCCB43D5F28CDEBC3BBDC31DD553.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Walls_and_Floor1.uasset'
+[2019.04.09-03.24.42:406][328]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Wardrobe24C2967F416868C8A8A3479122335D1C.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Wardrobe.uasset'
+[2019.04.09-03.24.42:429][328]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Windows_Frame9D062E23499647C3D01BB8AF8B6EB8AB.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Windows_Frame.uasset'
+[2019.04.09-03.24.42:440][328]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Windows_Frame_1EC3188584A5CE4842E8458983C808DCE.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_1.uasset'
+[2019.04.09-03.24.42:449][328]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Windows_Frame_212632D794BADFC16C537778553B4FE9E.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_2.uasset'
+[2019.04.09-03.24.42:950][377]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Abajour19E2F605459A1FCD1CEC6C8234A8D40B.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Abajour.uasset'
+[2019.04.09-03.24.42:958][377]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Air_ConditionerE23EA45B497A774898224BB1EA5655CD.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Air_Conditioner.uasset'
+[2019.04.09-03.24.42:961][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/modular_house_collection/Bedroom/Models/Bed" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Bed.uasset" SILENT=true
+[2019.04.09-03.24.42:966][377]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/BedC47BB0F84FDA62860DE594944DD70A72.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Bed.uasset'
+[2019.04.09-03.24.42:973][377]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Bed1BC45827D4EA42C221B481FB34C95E801.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Bed1.uasset'
+[2019.04.09-03.24.42:976][377]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/modular_house_collection/Bedroom/Models/Box" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Box.uasset" SILENT=true
+[2019.04.09-03.24.42:981][377]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Box5CE5FDB04E02E7D845B969BB3F628790.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Box.uasset'
+[2019.04.09-03.24.42:988][377]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Boxes63B4CF494F551732B8E7E4A15851C47F.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Boxes.uasset'
+[2019.04.09-03.24.42:995][377]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Branco_001AE3A93F24031510AF81A90A44854FAB3.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Branco_001.uasset'
+[2019.04.09-03.24.43:003][377]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/DresserB384980E4C8E5F3172BCB5A7780C958D.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Dresser.uasset'
+[2019.04.09-03.24.43:010][377]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Dresser11A09FAC34F411684ADC73598CE0BD237.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Dresser1.uasset'
+[2019.04.09-03.24.43:017][377]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Guarda-Roupas80C155C340F5DEF5EC3B20A3A12E51D3.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Guarda-Roupas.uasset'
+[2019.04.09-03.24.43:024][377]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Lampshade98C89E584ADA5F87FB4A78BB736B35E8.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Lampshade.uasset'
+[2019.04.09-03.24.43:031][377]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Mala98B3ADB346F01A3F7BEC3FB734BB73B9.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Mala.uasset'
+[2019.04.09-03.24.43:039][377]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/PlasticoBranco3704C5DE480B9D5393978A9DEAC00A85.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/PlasticoBranco.uasset'
+[2019.04.09-03.24.43:047][377]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/SuitcaseA98B426742FA23E72133BAA8CE6DB4C6.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Suitcase.uasset'
+[2019.04.09-03.24.43:056][377]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Walls_and_Floor5D8114FE4DD43FA37CDD4EA583FFA038.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Walls_and_Floor.uasset'
+[2019.04.09-03.24.43:063][377]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Walls_and_Floor1A6D068464E60F039940F21905F1C2F91.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Walls_and_Floor1.uasset'
+[2019.04.09-03.24.43:072][377]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/WardrobeF30997644E5835171C3894B7D0661051.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Wardrobe.uasset'
+[2019.04.09-03.24.43:080][377]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Windows_Frame839615DA4F599518C135EBA4F5BD68CF.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Windows_Frame.uasset'
+[2019.04.09-03.24.43:087][377]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Windows_Frame_17CB073274801B1738D119D8EB2C9255D.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_1.uasset'
+[2019.04.09-03.24.43:095][377]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Windows_Frame_27DAE1A084729FF3675D13D8284AA7821.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_2.uasset'
+[2019.04.09-03.24.43:390][403]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Abajour2FD65F86414E0364C712A6A58333E892.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Abajour.uasset'
+[2019.04.09-03.24.43:398][403]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Air_Conditioner10BF090F49E8517F8AAC74A3C5B3884B.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Air_Conditioner.uasset'
+[2019.04.09-03.24.43:400][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/modular_house_collection/Bedroom/Models/Bed" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Bed.uasset" SILENT=true
+[2019.04.09-03.24.43:406][403]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Bed4D57DB6C434D33AD9265B39B0C114201.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Bed.uasset'
+[2019.04.09-03.24.43:412][403]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Bed123E8BDBF443DF6430CEFAD8D4A64D9A8.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Bed1.uasset'
+[2019.04.09-03.24.43:415][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/modular_house_collection/Bedroom/Models/Box" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Box.uasset" SILENT=true
+[2019.04.09-03.24.43:420][403]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/BoxC4D12B6C437C3CF7F9A077828A5C5B69.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Box.uasset'
+[2019.04.09-03.24.43:427][403]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Boxes11C43C224F6D3BBF43848A88DB6D74B1.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Boxes.uasset'
+[2019.04.09-03.24.43:435][403]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Branco_0014D5CE39546D362395512A1A7FC529020.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Branco_001.uasset'
+[2019.04.09-03.24.43:442][403]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Dresser9672D2A24C4F08B19545EB87AF606DC2.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Dresser.uasset'
+[2019.04.09-03.24.43:449][403]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Dresser1B55A353241AA052616F85EAD6F42A670.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Dresser1.uasset'
+[2019.04.09-03.24.43:455][403]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Guarda-Roupas8E8425484A92F2D81E3A3287C948EF38.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Guarda-Roupas.uasset'
+[2019.04.09-03.24.43:463][403]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Lampshade3E47860444A79764575549A47FA7BBA2.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Lampshade.uasset'
+[2019.04.09-03.24.43:470][403]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Mala385810194093DB5D855DDA8D2012CFB5.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Mala.uasset'
+[2019.04.09-03.24.43:476][403]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/PlasticoBrancoC2B04E9349E486589EE562AFA58AB2EB.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/PlasticoBranco.uasset'
+[2019.04.09-03.24.43:484][403]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Suitcase7DB968B94E0BEA9B2AEEC28AF78FCE1F.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Suitcase.uasset'
+[2019.04.09-03.24.43:492][403]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Walls_and_Floor862019E54E9C53F32D070AB18D1EDE54.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Walls_and_Floor.uasset'
+[2019.04.09-03.24.43:499][403]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Walls_and_Floor12857532744D2906403C29B955F8968DC.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Walls_and_Floor1.uasset'
+[2019.04.09-03.24.43:508][403]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Wardrobe14C144674746839D4642F394DEA1E058.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Wardrobe.uasset'
+[2019.04.09-03.24.43:515][403]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Windows_FrameC432F62F42AB4CD9B6D74DB6E8EF4A3D.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Windows_Frame.uasset'
+[2019.04.09-03.24.43:524][403]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Windows_Frame_1C98C59BD4E82DDDC7C153FB7A11539D7.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_1.uasset'
+[2019.04.09-03.24.43:532][403]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Windows_Frame_2931E3CC846DDD91D3025E7B10493899A.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_2.uasset'
+[2019.04.09-03.24.43:689][413]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/AbajourD123F46F402E38F417F3BB9E10564224.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Abajour.uasset'
+[2019.04.09-03.24.43:698][413]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Air_Conditioner02D060FA43B1E616EBA4F3A041A67943.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Air_Conditioner.uasset'
+[2019.04.09-03.24.43:701][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/modular_house_collection/Bedroom/Models/Bed" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Bed.uasset" SILENT=true
+[2019.04.09-03.24.43:706][413]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Bed9345B34940BB6D2A2FE9DF8E44355183.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Bed.uasset'
+[2019.04.09-03.24.43:713][413]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Bed1C6B15D404FC4445990822A9EE4EDECCE.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Bed1.uasset'
+[2019.04.09-03.24.43:717][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/modular_house_collection/Bedroom/Models/Box" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Box.uasset" SILENT=true
+[2019.04.09-03.24.43:722][413]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/BoxA3521161495153082E1C1B8A62E57944.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Box.uasset'
+[2019.04.09-03.24.43:729][413]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Boxes21043A074FE293DF25F0DFB74FC4B0BE.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Boxes.uasset'
+[2019.04.09-03.24.43:737][413]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Branco_001AF3A5CE04CE94616F1BABB9B17EBB310.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Branco_001.uasset'
+[2019.04.09-03.24.43:745][413]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/DresserB6068DEF4A1B713F359EB89A625DF679.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Dresser.uasset'
+[2019.04.09-03.24.43:752][413]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Dresser1D10B1B404C0E25066EF64C8B851639BC.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Dresser1.uasset'
+[2019.04.09-03.24.43:759][413]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Guarda-RoupasEFAE74D44041860D0FE784B2CE8DA138.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Guarda-Roupas.uasset'
+[2019.04.09-03.24.43:768][413]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Lampshade0F6F53EB4D0D7B2888DF6BAD04E6307D.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Lampshade.uasset'
+[2019.04.09-03.24.43:775][413]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Mala3098059149BE87D581D764BD9E1207BE.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Mala.uasset'
+[2019.04.09-03.24.43:781][413]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/PlasticoBrancoA78F59B248561026A01C3B84D8345D73.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/PlasticoBranco.uasset'
+[2019.04.09-03.24.43:790][413]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/SuitcaseDFEF2CF94AD5B7F5FF0E70986A261211.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Suitcase.uasset'
+[2019.04.09-03.24.43:799][413]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Walls_and_Floor06CAEC2C4E098E5921FC80BCB2853B8B.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Walls_and_Floor.uasset'
+[2019.04.09-03.24.43:806][413]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Walls_and_Floor1E4CD053F4398FC84EF180A9A167AF553.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Walls_and_Floor1.uasset'
+[2019.04.09-03.24.43:815][413]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Wardrobe64E162E24853F43C1B6CBAB57577B78C.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Wardrobe.uasset'
+[2019.04.09-03.24.43:822][413]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Windows_Frame1056F5B743B9B12A99345CA483EDFE59.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Windows_Frame.uasset'
+[2019.04.09-03.24.43:830][413]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Windows_Frame_13EA7615D44A953DAA0FCAB80EC26DF0F.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_1.uasset'
+[2019.04.09-03.24.43:839][413]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Windows_Frame_291C971FE443CB9B0B691ADB24FA7EAAC.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_2.uasset'
+[2019.04.09-03.24.43:975][421]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Abajour5EDEF23046A57419878200A5A84ADAE0.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Abajour.uasset'
+[2019.04.09-03.24.43:986][421]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Air_Conditioner500F79D84EF73B5C85C647803757E569.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Air_Conditioner.uasset'
+[2019.04.09-03.24.43:990][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/modular_house_collection/Bedroom/Models/Bed" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Bed.uasset" SILENT=true
+[2019.04.09-03.24.43:995][421]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Bed7F833E3C48897AA236DFEE956A221EB8.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Bed.uasset'
+[2019.04.09-03.24.44:002][421]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Bed1D1EEA2A84B2A19F3652ED18F6250E3AA.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Bed1.uasset'
+[2019.04.09-03.24.44:005][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/modular_house_collection/Bedroom/Models/Box" FILE="D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Box.uasset" SILENT=true
+[2019.04.09-03.24.44:010][421]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/BoxBB0336C84F080281642566A629B09497.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Box.uasset'
+[2019.04.09-03.24.44:018][421]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/BoxesED5703454CE058A927C9508B12AD7B96.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Boxes.uasset'
+[2019.04.09-03.24.44:024][421]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Branco_001EC1FD1E24B072AD9A30551B69207BD6D.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Branco_001.uasset'
+[2019.04.09-03.24.44:033][421]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Dresser58ACE8EF4A8E599E6CA9FD95BC645FED.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Dresser.uasset'
+[2019.04.09-03.24.44:041][421]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Dresser1A9FD8EB44757A795A7D1419F5A54933E.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Dresser1.uasset'
+[2019.04.09-03.24.44:048][421]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Guarda-Roupas56B1271D4F382C56E20FA39D7D40830A.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Guarda-Roupas.uasset'
+[2019.04.09-03.24.44:057][421]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Lampshade580BA2CE4533AD100DBAB2B5F10871EF.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Lampshade.uasset'
+[2019.04.09-03.24.44:065][421]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Mala9BA865F142FDFCFC33CC8399A3D97DA6.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Mala.uasset'
+[2019.04.09-03.24.44:072][421]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/PlasticoBranco5AB1525F45564AD3BF071290FD0D80A8.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/PlasticoBranco.uasset'
+[2019.04.09-03.24.44:080][421]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Suitcase497F49A1422582EB1182BB879FEB9EBD.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Suitcase.uasset'
+[2019.04.09-03.24.44:088][421]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Walls_and_FloorF72E23624FA7F3254AB69CAA70704300.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Walls_and_Floor.uasset'
+[2019.04.09-03.24.44:095][421]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Walls_and_Floor1661796CF418508096D712481523DE1CB.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Walls_and_Floor1.uasset'
+[2019.04.09-03.24.44:104][421]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/WardrobeA93731DB49E4C15ED9DC439C4A05110B.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Wardrobe.uasset'
+[2019.04.09-03.24.44:111][421]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Windows_Frame0E72687B42D6F0D4E8FA449C46CB7907.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Windows_Frame.uasset'
+[2019.04.09-03.24.44:119][421]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Windows_Frame_192C0919B418F1A120023A69AEE9E5B72.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_1.uasset'
+[2019.04.09-03.24.44:127][421]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/Windows_Frame_26B306ABC4F1F6D633A66AD9A2A935DEF.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/Windows_Frame_2.uasset'
+[2019.04.09-03.25.03:476][640]LogTextFormatter: Warning: Failed to parse argument "ExistingAsset" as a number (using "0" as a fallback). Please check your format string for errors: "{ExistingAsset} already exists. Do you want to replace it?".
+[2019.04.09-03.25.05:115][640]LogSlate: Window 'Message' being destroyed
+[2019.04.09-03.25.05:120][640]LogSlate: Window 'Save Level As' being destroyed
+[2019.04.09-03.25.05:135][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BEDROOM" FILE="D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.09-03.25.05:246][640]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/BEDROOMD2A631A143D5349CDD091D86D8A7210C.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap'
+[2019.04.09-03.25.05:258][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BEDROOM_BuiltData" FILE="D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM_BuiltData.uasset" SILENT=true
+[2019.04.09-03.25.05:269][640]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/BEDROOM_BuiltDataFB9E80F94392170D71D1EF8801620153.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM_BuiltData.uasset'
+[2019.04.09-03.25.05:274][640]LogFileHelpers: Saving map 'BEDROOM' took 0.149
+[2019.04.09-03.25.05:275][640]Cmd: MAP LOAD FILE="D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.09-03.25.05:281][640]LightingResults: New page: Lighting Build
+[2019.04.09-03.25.05:282][640]LoadErrors: New page: Loading map: BEDROOM.umap
+[2019.04.09-03.25.05:282][640]MapCheck: New page: Map Check
+[2019.04.09-03.25.05:282][640]LightingResults: New page: Lighting Build
+[2019.04.09-03.25.05:340][640]LogAIModule: Creating AISystem for world BEDROOM
+[2019.04.09-03.25.05:346][640]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.09-03.25.05:380][640]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.09-03.25.05:380][640]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.081ms to complete.
+[2019.04.09-03.25.05:380][640]LogFileHelpers: Loading map 'BEDROOM' took 0.106
+[2019.04.09-03.25.06:692][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bed2)
+[2019.04.09-03.26.56:762][775]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-03.29.07:055][233]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wardrobe2)
+[2019.04.09-03.29.11:607][753]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-03.29.21:436][874]LogSlate: Took 0.000892 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.09-03.29.27:252][313]LogSlate: Window 'Material Baking Options' being destroyed
+[2019.04.09-03.29.27:265][313]LogMaterial: Display: Missing cached shader map for material FExportMaterialRenderer Windows_Frame, compiling. 
+[2019.04.09-03.29.29:622][313]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.09-03.29.29:622][313]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.09-03.29.29:622][313]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.09-03.29.29:622][313]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.04.09-03.29.29:622][313]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.04.09-03.29.29:622][313]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.09-03.29.29:622][313]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.04.09-03.29.29:622][313]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.09-03.29.29:622][313]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.09-03.29.29:622][313]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.09-03.29.29:622][313]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.09-03.29.29:622][313]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.09-03.29.29:622][313]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.04.09-03.29.29:622][313]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.09-03.29.29:622][313]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.09-03.29.29:622][313]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.09-03.29.29:622][313]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.09-03.29.29:622][313]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.09-03.29.29:622][313]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.09-03.29.29:622][313]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.09-03.29.29:622][313]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.09-03.29.29:623][313]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.09-03.29.29:623][313]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.09-03.29.29:623][313]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.09-03.29.29:623][313]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.09-03.29.29:623][313]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.09-03.29.29:623][313]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.09-03.29.29:623][313]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.09-03.29.29:623][313]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.09-03.29.29:647][313]LogTexture: Display: Building textures: T_M_Windows_Frame_2_Windows_Frame_DCD26D77450BD8D13B3BC4B4D1FACC65_BaseColor (BGRA8, 1X1)
+[2019.04.09-03.29.29:652][313]LogMaterial: Display: Missing cached shader map for material NewBaseFlattenMaterial, compiling. 
+[2019.04.09-03.29.29:746][313]LogShaderCompilers: Display: Shaders left to compile 213
+[2019.04.09-03.29.29:746][313]LogShaderCompilers: Display: Shaders left to compile 203
+[2019.04.09-03.29.29:746][313]LogShaderCompilers: Display: Shaders left to compile 193
+[2019.04.09-03.29.29:746][313]LogShaderCompilers: Display: Shaders left to compile 183
+[2019.04.09-03.29.31:214][313]LogShaderCompilers: Display: Shaders left to compile 173
+[2019.04.09-03.29.31:322][313]LogShaderCompilers: Display: Shaders left to compile 163
+[2019.04.09-03.29.31:581][313]LogShaderCompilers: Display: Shaders left to compile 153
+[2019.04.09-03.29.32:639][313]LogShaderCompilers: Display: Shaders left to compile 143
+[2019.04.09-03.29.33:136][313]LogSlate: Window 'Material Baking Options' being destroyed
+[2019.04.09-03.29.33:554][336]LogShaderCompilers: Display: Shaders left to compile 133
+[2019.04.09-03.29.33:896][359]LogShaderCompilers: Display: Shaders left to compile 123
+[2019.04.09-03.29.34:706][411]LogShaderCompilers: Display: Shaders left to compile 113
+[2019.04.09-03.29.34:805][419]LogShaderCompilers: Display: Shaders left to compile 103
+[2019.04.09-03.29.36:278][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bed2)
+[2019.04.09-03.29.36:760][560]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.04.09-03.29.36:926][570]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.04.09-03.29.37:160][586]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.04.09-03.29.37:923][633]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.04.09-03.29.38:492][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-03.29.39:735][753]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.04.09-03.29.40:160][784]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.04.09-03.29.41:017][841]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.04.09-03.29.41:537][841]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.04.09-03.29.42:625][841]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.09-03.29.42:863][841]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.09-03.29.43:175][841]LogSlate: Window 'Material Baking Options' being destroyed
+[2019.04.09-03.29.43:193][841]LogMaterial: Display: Missing cached shader map for material FExportMaterialRenderer Bed1, compiling. 
+[2019.04.09-03.29.46:202][841]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.09-03.29.46:202][841]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.09-03.29.46:202][841]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.09-03.29.46:202][841]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.04.09-03.29.46:202][841]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.04.09-03.29.46:202][841]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.09-03.29.46:202][841]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.04.09-03.29.46:202][841]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.09-03.29.46:202][841]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.09-03.29.46:202][841]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.09-03.29.46:202][841]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.09-03.29.46:202][841]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.09-03.29.46:202][841]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.04.09-03.29.46:202][841]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.09-03.29.46:202][841]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.09-03.29.46:202][841]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.09-03.29.46:202][841]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.09-03.29.46:202][841]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.09-03.29.46:202][841]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.09-03.29.46:202][841]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.09-03.29.46:202][841]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.09-03.29.46:202][841]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.09-03.29.46:202][841]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.09-03.29.46:202][841]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.09-03.29.46:202][841]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.09-03.29.46:202][841]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.09-03.29.46:202][841]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.09-03.29.46:202][841]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.09-03.29.46:202][841]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.09-03.29.46:207][841]LogMaterial: Display: Missing cached shader map for material FExportMaterialRenderer Branco_001, compiling. 
+[2019.04.09-03.29.48:213][841]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.09-03.29.48:213][841]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.09-03.29.48:213][841]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.09-03.29.48:213][841]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.04.09-03.29.48:213][841]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.04.09-03.29.48:213][841]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.09-03.29.48:213][841]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.04.09-03.29.48:213][841]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.09-03.29.48:213][841]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.09-03.29.48:213][841]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.09-03.29.48:213][841]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.09-03.29.48:213][841]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.09-03.29.48:213][841]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.04.09-03.29.48:213][841]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.09-03.29.48:213][841]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.09-03.29.48:213][841]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.09-03.29.48:213][841]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.09-03.29.48:213][841]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.09-03.29.48:213][841]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.09-03.29.48:213][841]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.09-03.29.48:213][841]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.09-03.29.48:213][841]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.09-03.29.48:213][841]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.09-03.29.48:213][841]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.09-03.29.48:213][841]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.09-03.29.48:213][841]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.09-03.29.48:213][841]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.09-03.29.48:213][841]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.09-03.29.48:213][841]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.09-03.29.48:217][841]LogTexture: Display: Building textures: T_M_Bed_Bed1_14694570401F8874D7973EA7A066910F_BaseColor (BGRA8, 1X1)
+[2019.04.09-03.29.48:227][841]LogTexture: Display: Building textures: T_M_Bed_Branco_001_14694570401F8874D7973EA7A066910F_BaseColor (BGRA8, 1X1)
+[2019.04.09-03.29.52:905][ 88]LogSlate: Window 'Material Baking Options' being destroyed
+[2019.04.09-03.29.52:918][ 88]LogMaterial: Display: Missing cached shader map for material FExportMaterialRenderer M_M_Bed_Bed1_14694570401F8874D7973EA7A066910F, compiling. 
+[2019.04.09-03.29.54:964][ 88]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.04.09-03.29.54:964][ 88]LogShaderCompilers: Display: Shaders left to compile 28
+[2019.04.09-03.29.54:964][ 88]LogShaderCompilers: Display: Shaders left to compile 27
+[2019.04.09-03.29.54:964][ 88]LogShaderCompilers: Display: Shaders left to compile 26
+[2019.04.09-03.29.54:964][ 88]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.04.09-03.29.54:964][ 88]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.04.09-03.29.54:964][ 88]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.04.09-03.29.54:964][ 88]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.04.09-03.29.54:964][ 88]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.04.09-03.29.54:964][ 88]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.04.09-03.29.54:964][ 88]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.04.09-03.29.54:964][ 88]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.04.09-03.29.54:964][ 88]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.04.09-03.29.54:964][ 88]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.04.09-03.29.54:964][ 88]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.04.09-03.29.54:964][ 88]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.04.09-03.29.54:964][ 88]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.09-03.29.54:964][ 88]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.04.09-03.29.54:964][ 88]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.04.09-03.29.54:964][ 88]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.04.09-03.29.54:964][ 88]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.04.09-03.29.54:964][ 88]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.04.09-03.29.54:964][ 88]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.04.09-03.29.54:964][ 88]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.04.09-03.29.54:964][ 88]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.04.09-03.29.54:964][ 88]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.04.09-03.29.54:964][ 88]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.09-03.29.54:964][ 88]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.04.09-03.29.54:964][ 88]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.04.09-03.29.54:977][ 88]LogTexture: Display: Building textures: T_M_Bed_M_M_Bed_Bed1_14694570401F8874D7973EA7A066910F_D00774AB4AEB848EC473BE98BA9F561F_BaseColor (BGRA8, 1X1)
+[2019.04.09-03.29.54:998][ 88]LogTexture: Display: Building textures: T_M_Bed_M_M_Bed_Branco_001_14694570401F8874D7973EA7A066910F_D00774AB4AEB848EC473BE98BA9F561F_BaseColor (BGRA8, 1X1)
+[2019.04.09-03.30.00:325][211]LogSlate: Window 'Material Baking Options' being destroyed
+[2019.04.09-03.30.00:377][211]LogTexture: Display: Building textures: T_M_Bed_M_M_Bed_M_M_Bed_Bed1_14694570401F8874D7973EA7A066910F_D00774AB4AEB848EC473BE98BA9F561F_8783DF6A4CC700E8FC5CC4BAC03191CE_BaseColor (BGRA8, 1X1)
+[2019.04.09-03.30.00:382][211]LogMaterial: Display: Missing cached shader map for material NewBaseFlattenMaterial, compiling. 
+[2019.04.09-03.30.00:460][211]LogTexture: Display: Building textures: T_M_Bed_M_M_Bed_M_M_Bed_Branco_001_14694570401F8874D7973EA7A066910F_D00774AB4AEB848EC473BE98BA9F561F_8783DF6A4CC700E8FC5CC4BAC03191CE_BaseColor (BGRA8, 1X1)
+[2019.04.09-03.30.00:464][211]LogShaderCompilers: Display: Shaders left to compile 213
+[2019.04.09-03.30.00:464][211]LogShaderCompilers: Display: Shaders left to compile 203
+[2019.04.09-03.30.00:464][211]LogShaderCompilers: Display: Shaders left to compile 193
+[2019.04.09-03.30.00:464][211]LogShaderCompilers: Display: Shaders left to compile 183
+[2019.04.09-03.30.02:608][341]LogShaderCompilers: Display: Shaders left to compile 173
+[2019.04.09-03.30.02:650][344]LogShaderCompilers: Display: Shaders left to compile 163
+[2019.04.09-03.30.02:872][359]LogShaderCompilers: Display: Shaders left to compile 153
+[2019.04.09-03.30.04:364][464]Cmd: TRANSACTION UNDO
+[2019.04.09-03.30.04:364][464]LogEditorTransaction: Undo Edit Use Mesh Data
+[2019.04.09-03.30.04:742][481]LogShaderCompilers: Display: Shaders left to compile 143
+[2019.04.09-03.30.06:259][578]Cmd: TRANSACTION UNDO
+[2019.04.09-03.30.06:260][578]LogEditorTransaction: Undo Clicking on Actors
+[2019.04.09-03.30.06:350][579]LogShaderCompilers: Display: Shaders left to compile 133
+[2019.04.09-03.30.07:662][672]LogShaderCompilers: Display: Shaders left to compile 123
+[2019.04.09-03.30.08:433][725]LogShaderCompilers: Display: Shaders left to compile 113
+[2019.04.09-03.30.08:623][738]LogShaderCompilers: Display: Shaders left to compile 103
+[2019.04.09-03.30.11:088][907]LogShaderCompilers: Display: Shaders left to compile 93
+[2019.04.09-03.30.11:487][934]LogShaderCompilers: Display: Shaders left to compile 83
+[2019.04.09-03.30.11:635][944]LogShaderCompilers: Display: Shaders left to compile 73
+[2019.04.09-03.30.12:464][  1]LogShaderCompilers: Display: Shaders left to compile 63
+[2019.04.09-03.30.12:676][ 16]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bed2)
+[2019.04.09-03.30.14:098][112]LogShaderCompilers: Display: Shaders left to compile 53
+[2019.04.09-03.30.14:618][147]LogShaderCompilers: Display: Shaders left to compile 43
+[2019.04.09-03.30.14:806][160]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-03.30.15:289][190]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.04.09-03.30.15:555][209]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.04.09-03.30.16:952][304]Cmd: DELETE
+[2019.04.09-03.30.16:952][304]Cmd: ACTOR DELETE
+[2019.04.09-03.30.16:957][304]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.04.09-03.30.16:980][304]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2019.04.09-03.30.17:529][355]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.04.09-03.30.17:685][371]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.04.09-03.30.22:994][930]Cmd: TRANSACTION UNDO
+[2019.04.09-03.30.22:994][930]LogEditorTransaction: Undo Move Actors
+[2019.04.09-03.30.23:170][948]Cmd: TRANSACTION UNDO
+[2019.04.09-03.30.23:170][948]LogEditorTransaction: Undo Clicking on Actors
+[2019.04.09-03.30.23:333][964]Cmd: TRANSACTION UNDO
+[2019.04.09-03.30.23:333][964]LogEditorTransaction: Undo Delete Actors
+[2019.04.09-03.30.23:485][971]Cmd: TRANSACTION UNDO
+[2019.04.09-03.30.23:485][971]LogEditorTransaction: Undo Clicking on Actors
+[2019.04.09-03.30.23:665][985]Cmd: TRANSACTION UNDO
+[2019.04.09-03.30.23:665][985]LogEditorTransaction: Undo Clicking on Actors
+[2019.04.09-03.30.28:193][450]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.09-03.30.34:911][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.09-03.30.34:923][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BEDROOM" FILE="D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.09-03.30.35:034][ 53]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/BEDROOM089C1A7447721406798FE9A72103D510.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap'
+[2019.04.09-03.30.35:049][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BEDROOM_BuiltData" FILE="D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM_BuiltData.uasset" SILENT=true
+[2019.04.09-03.30.35:064][ 53]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/BEDROOM_BuiltDataC4F7537E410BE411996BF4B7555FDB67.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM_BuiltData.uasset'
+[2019.04.09-03.30.38:735][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-03.31.40:866][839]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.09-03.31.42:225][987]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.09-03.31.43:970][189]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.09-03.31.44:003][189]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/M_Windows_Frame_2_Windows_Frame_62EEAA6F4803F2A20C6EB6ACCCADFE77.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/M_Windows_Frame_2_Windows_Frame_DCD26D77450BD8D13B3BC4B4D1FACC65.uasset'
+[2019.04.09-03.31.44:030][189]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/M_Bed_Bed1_14694570401F8874D7973760404524F6575BA90F949A9059A766E.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/M_Bed_Bed1_14694570401F8874D7973EA7A066910F.uasset'
+[2019.04.09-03.31.44:060][189]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/M_Bed_Branco_001_14694570401F887043DBD7F422E501B766E01A9812926BB.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/M_Bed_Branco_001_14694570401F8874D7973EA7A066910F.uasset'
+[2019.04.09-03.31.44:087][189]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/M_Bed_M_M_Bed_Bed1_14694570401F8757F7EDE48855F7B91FA5C9CC8E0ECDD.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/M_Bed_M_M_Bed_Bed1_14694570401F8874D7973EA7A066910F_D00774AB4AEB848EC473BE98BA9F561F.uasset'
+[2019.04.09-03.31.44:112][189]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/M_Bed_M_M_Bed_Branco_001_1469457F5A254E0489EF911FD7029A5A06BE890.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/M_Bed_M_M_Bed_Branco_001_14694570401F8874D7973EA7A066910F_D00774AB4AEB848EC473BE98BA9F561F.uasset'
+[2019.04.09-03.31.44:146][189]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/M_Bed_M_M_Bed_M_M_Bed_Bed1_14694A9F61466415FB8579974E8B0AC10EE30.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/M_Bed_M_M_Bed_M_M_Bed_Bed1_14694570401F8874D7973EA7A066910F_D00774AB4AEB848EC473BE98BA9F561F_8783DF6A4CC700E8FC5CC4BAC03191CE.uasset'
+[2019.04.09-03.31.44:175][189]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/M_Bed_M_M_Bed_M_M_Bed_Branco_001C1B2AD514ACB7451A7795C9B7DEDC989.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/Assets/modular_house_collection/Bedroom/Models/M_Bed_M_M_Bed_M_M_Bed_Branco_001_14694570401F8874D7973EA7A066910F_D00774AB4AEB848EC473BE98BA9F561F_8783DF6A4CC700E8FC5CC4BAC03191CE.uasset'
+[2019.04.09-03.31.49:677][670]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-03.31.54:429][175]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bed2)
+[2019.04.09-03.31.59:876][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-03.32.12:914][699]LogLinker: Warning: Can't find file '/Game/Assets/dist/obj_mtl/bed-king'
+[2019.04.09-03.32.12:914][699]LogLinker: Warning: Can't find file '/Game/Assets/dist/obj_mtl/bed-king'
+[2019.04.09-03.32.12:914][699]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Assets/dist/obj_mtl/bed-king.bed-king'
+[2019.04.09-03.32.21:798][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BEDROOM" FILE="D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.09-03.32.21:912][562]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/BEDROOM2593A7F64B1C9F25EDB502B8BBC6A9AD.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap'
+[2019.04.09-03.32.21:924][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BEDROOM_BuiltData" FILE="D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM_BuiltData.uasset" SILENT=true
+[2019.04.09-03.32.21:936][562]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/BEDROOM_BuiltData8C5519F74E26620B3D7D2B9A97B8E125.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM_BuiltData.uasset'
+[2019.04.09-03.32.23:757][763]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.09-03.32.26:333][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-03.32.26:432][ 63]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.09-03.32.26:438][ 63]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BEDROOM.BEDROOM:PersistentLevel' has LevelScriptBlueprint '/Game/BEDROOM.BEDROOM:PersistentLevel.BEDROOM' with GeneratedClass '/Game/BEDROOM.BEDROOM_C' with ClassGeneratedBy '/Game/BEDROOM.BEDROOM:PersistentLevel.BEDROOM'
+[2019.04.09-03.32.26:438][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.09-03.32.26:438][ 63]PIE: New page: PIE session: BEDROOM (Apr 8, 2019, 7:32:26 PM)
+[2019.04.09-03.32.26:451][ 63]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BEDROOM
+[2019.04.09-03.32.26:454][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002734s)
+[2019.04.09-03.32.26:454][ 63]LogAIModule: Creating AISystem for world BEDROOM
+[2019.04.09-03.32.26:455][ 63]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2019.04.09-03.32.26:455][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BEDROOM.BEDROOM to /Game/UEDPIE_0_BEDROOM.BEDROOM (0.003785s)
+[2019.04.09-03.32.26:494][ 63]LogInit: XAudio2 using '2D HD LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.09-03.32.26:511][ 63]LogInit: FAudioDevice initialized.
+[2019.04.09-03.32.26:552][ 63]LogLoad: Game class is 'GameModeBase'
+[2019.04.09-03.32.26:554][ 63]LogWorld: Bringing World /Game/UEDPIE_0_BEDROOM.BEDROOM up for play (max tick rate 0) at 2019.04.08-23.32.26
+[2019.04.09-03.32.26:554][ 63]LogWorld: Bringing up level for play took: 0.000808
+[2019.04.09-03.32.26:575][ 63]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2019.04.09-03.32.26:575][ 63]PIE: Play in editor start time for /Game/UEDPIE_0_BEDROOM 0.541
+[2019.04.09-03.32.26:576][ 63]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BEDROOM.BEDROOM:PersistentLevel' has LevelScriptBlueprint '/Game/BEDROOM.BEDROOM:PersistentLevel.BEDROOM' with GeneratedClass '/Game/BEDROOM.BEDROOM_C' with ClassGeneratedBy '/Game/BEDROOM.BEDROOM:PersistentLevel.BEDROOM'
+[2019.04.09-03.32.32:183][727]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BEDROOM.BEDROOM:PersistentLevel' has LevelScriptBlueprint '/Game/BEDROOM.BEDROOM:PersistentLevel.BEDROOM' with GeneratedClass '/Game/BEDROOM.BEDROOM_C' with ClassGeneratedBy '/Game/BEDROOM.BEDROOM:PersistentLevel.BEDROOM'
+[2019.04.09-03.32.32:183][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.09-03.32.32:216][727]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.09-03.32.32:216][727]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BEDROOM.BEDROOM:PersistentLevel' has LevelScriptBlueprint '/Game/BEDROOM.BEDROOM:PersistentLevel.BEDROOM' with GeneratedClass '/Game/BEDROOM.BEDROOM_C' with ClassGeneratedBy '/Game/BEDROOM.BEDROOM:PersistentLevel.BEDROOM'
+[2019.04.09-03.32.32:236][727]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.09-03.32.32:289][730]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.04.09-03.32.32:728][781]Cmd: SELECT NONE
+[2019.04.09-03.32.34:836][ 15]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.09-03.32.35:458][ 80]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls_and_Floor2)
+[2019.04.09-03.32.38:399][412]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.09-03.32.41:334][720]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.09-03.32.41:527][740]Cmd: ACTOR SELECT ALL
+[2019.04.09-03.32.44:374][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-03.32.53:784][115]Cmd: TRANSACTION UNDO
+[2019.04.09-03.32.53:784][115]LogEditorTransaction: Undo Clicking on Actors
+[2019.04.09-03.32.54:977][237]Cmd: TRANSACTION UNDO
+[2019.04.09-03.32.54:977][237]LogEditorTransaction: Undo Clicking on Actors
+[2019.04.09-03.32.55:157][253]Cmd: TRANSACTION UNDO
+[2019.04.09-03.32.55:157][253]LogEditorTransaction: Undo Clicking on Actors
+[2019.04.09-03.32.55:310][267]Cmd: TRANSACTION UNDO
+[2019.04.09-03.32.55:311][267]LogEditorTransaction: Undo Clicking on Actors
+[2019.04.09-03.32.55:469][281]Cmd: TRANSACTION UNDO
+[2019.04.09-03.32.55:469][281]LogEditorTransaction: Undo Clicking on Actors
+[2019.04.09-03.32.55:632][296]Cmd: TRANSACTION UNDO
+[2019.04.09-03.32.55:632][296]LogEditorTransaction: Undo Clicking on Actors
+[2019.04.09-03.32.55:784][310]Cmd: TRANSACTION UNDO
+[2019.04.09-03.32.55:784][310]LogEditorTransaction: Undo Clicking on Actors
+[2019.04.09-03.32.55:949][328]Cmd: TRANSACTION UNDO
+[2019.04.09-03.32.55:949][328]LogEditorTransaction: Undo Select All
+[2019.04.09-03.32.56:081][341]Cmd: TRANSACTION UNDO
+[2019.04.09-03.32.56:081][341]LogEditorTransaction: Undo Clicking on Actors
+[2019.04.09-03.32.56:240][359]Cmd: TRANSACTION UNDO
+[2019.04.09-03.32.56:240][359]LogEditorTransaction: Undo Clicking on Actors
+[2019.04.09-03.32.56:417][376]Cmd: TRANSACTION UNDO
+[2019.04.09-03.32.56:417][376]LogEditorTransaction: Undo Clicking on Actors
+[2019.04.09-03.32.56:578][392]Cmd: TRANSACTION UNDO
+[2019.04.09-03.32.56:578][392]LogEditorTransaction: Undo Clicking on Actors
+[2019.04.09-03.32.56:734][410]Cmd: TRANSACTION UNDO
+[2019.04.09-03.32.56:734][410]LogEditorTransaction: Undo Select None
+[2019.04.09-03.32.56:891][428]Cmd: TRANSACTION UNDO
+[2019.04.09-03.32.56:891][428]LogEditorTransaction: Undo Clicking on Actors
+[2019.04.09-03.33.01:128][901]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.04.09-03.33.01:749][966]Cmd: TRANSACTION UNDO
+[2019.04.09-03.33.01:749][966]LogEditorTransaction: Undo Move Actors
+[2019.04.09-03.33.09:444][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls_and_Floor2)
+[2019.04.09-03.33.11:214][997]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-03.33.25:656][524]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.04.09-03.33.26:060][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-03.33.37:358][833]LogTemp: Repeating last play command: Selected Viewport
+[2019.04.09-03.33.37:364][833]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/BEDROOM.BEDROOM:PersistentLevel' has LevelScriptBlueprint '/Game/BEDROOM.BEDROOM:PersistentLevel.BEDROOM' with GeneratedClass '/Game/BEDROOM.BEDROOM_C' with ClassGeneratedBy '/Game/BEDROOM.BEDROOM:PersistentLevel.BEDROOM'
+[2019.04.09-03.33.37:364][833]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.09-03.33.37:364][833]PIE: New page: PIE session: BEDROOM (Apr 8, 2019, 7:33:37 PM)
+[2019.04.09-03.33.37:364][833]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_BEDROOM
+[2019.04.09-03.33.37:367][833]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002764s)
+[2019.04.09-03.33.37:368][833]LogAIModule: Creating AISystem for world BEDROOM
+[2019.04.09-03.33.37:368][833]LogPlayLevel: PIE: World Init took: (0.000549s)
+[2019.04.09-03.33.37:368][833]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/BEDROOM.BEDROOM to /Game/UEDPIE_0_BEDROOM.BEDROOM (0.003457s)
+[2019.04.09-03.33.37:418][833]LogInit: XAudio2 using '2D HD LG TV (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.09-03.33.37:434][833]LogInit: FAudioDevice initialized.
+[2019.04.09-03.33.37:466][833]LogLoad: Game class is 'GameModeBase'
+[2019.04.09-03.33.37:467][833]LogWorld: Bringing World /Game/UEDPIE_0_BEDROOM.BEDROOM up for play (max tick rate 0) at 2019.04.08-23.33.37
+[2019.04.09-03.33.37:467][833]LogWorld: Bringing up level for play took: 0.000697
+[2019.04.09-03.33.37:480][833]PIE: Play in editor start time for /Game/UEDPIE_0_BEDROOM -0.555
+[2019.04.09-03.33.37:480][833]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/BEDROOM.BEDROOM:PersistentLevel' has LevelScriptBlueprint '/Game/BEDROOM.BEDROOM:PersistentLevel.BEDROOM' with GeneratedClass '/Game/BEDROOM.BEDROOM_C' with ClassGeneratedBy '/Game/BEDROOM.BEDROOM:PersistentLevel.BEDROOM'
+[2019.04.09-03.33.41:466][301]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/BEDROOM.BEDROOM:PersistentLevel' has LevelScriptBlueprint '/Game/BEDROOM.BEDROOM:PersistentLevel.BEDROOM' with GeneratedClass '/Game/BEDROOM.BEDROOM_C' with ClassGeneratedBy '/Game/BEDROOM.BEDROOM:PersistentLevel.BEDROOM'
+[2019.04.09-03.33.41:467][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.09-03.33.41:497][301]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.09-03.33.41:497][301]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/BEDROOM.BEDROOM:PersistentLevel' has LevelScriptBlueprint '/Game/BEDROOM.BEDROOM:PersistentLevel.BEDROOM' with GeneratedClass '/Game/BEDROOM.BEDROOM_C' with ClassGeneratedBy '/Game/BEDROOM.BEDROOM:PersistentLevel.BEDROOM'
+[2019.04.09-03.33.41:519][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.09-03.33.41:568][304]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.04.09-03.33.42:612][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Walls_and_Floor2)
+[2019.04.09-03.33.46:948][818]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-03.33.47:229][839]LogActorFactory: Actor Factory created Windows_Frame_1
+[2019.04.09-03.33.48:129][932]LogActorFactory: Actor Factory created Windows_Frame_1
+[2019.04.09-03.33.50:159][154]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.09-03.33.51:692][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-03.33.51:900][299]LogActorFactory: Actor Factory created Windows_Frame_2
+[2019.04.09-03.34.48:207][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-03.34.49:777][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BEDROOM" FILE="D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.09-03.34.49:887][ 73]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/BEDROOM93A98FFC4CC892A3EBCAA4A6FED35334.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap'
+[2019.04.09-03.34.49:899][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BEDROOM_BuiltData" FILE="D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM_BuiltData.uasset" SILENT=true
+[2019.04.09-03.34.49:909][ 73]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/BEDROOM_BuiltData7D1A79F746C0029BA799219F1CB33A2C.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM_BuiltData.uasset'
+[2019.04.09-03.34.51:056][202]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.09-03.34.51:061][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BEDROOM" FILE="D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.09-03.34.51:183][202]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/BEDROOMF3B8C8C04A66E2BE10AEB69F552D602D.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap'
+[2019.04.09-03.34.51:195][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BEDROOM_BuiltData" FILE="D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM_BuiltData.uasset" SILENT=true
+[2019.04.09-03.34.51:205][202]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/BEDROOM_BuiltDataDC8A6CD44271925E4A8255A52674DE57.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM_BuiltData.uasset'
+[2019.04.09-03.34.51:531][236]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.09-03.34.51:536][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BEDROOM" FILE="D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.09-03.34.51:665][236]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/BEDROOM2ECD47034A5822042822FFAFFD3F8B1E.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap'
+[2019.04.09-03.34.51:679][236]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BEDROOM_BuiltData" FILE="D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM_BuiltData.uasset" SILENT=true
+[2019.04.09-03.34.51:689][236]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/BEDROOM_BuiltDataF2B941104CF5DBAF4E2DC5910E96944A.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM_BuiltData.uasset'
+[2019.04.09-03.34.51:822][248]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.09-03.34.51:827][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BEDROOM" FILE="D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.09-03.34.51:945][248]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/BEDROOM123492F241170433BE9412BB68E9FC0A.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap'
+[2019.04.09-03.34.51:957][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BEDROOM_BuiltData" FILE="D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM_BuiltData.uasset" SILENT=true
+[2019.04.09-03.34.51:968][248]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/BEDROOM_BuiltDataE85E684247C549BDFBEA0596ACA47B63.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM_BuiltData.uasset'
+[2019.04.09-03.34.52:226][275]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.09-03.34.52:231][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BEDROOM" FILE="D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.04.09-03.34.52:351][275]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/BEDROOM7194122440562EC37253A29E83B90737.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM.umap'
+[2019.04.09-03.34.52:365][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BEDROOM_BuiltData" FILE="D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM_BuiltData.uasset" SILENT=true
+[2019.04.09-03.34.52:375][275]LogSavePackage: Moving 'D:/Repo/VR-Storytelling-Unreal/Saved/BEDROOM_BuiltDataB2A6C5F34CA0ACD4F9C44DA65098729A.tmp' to 'D:/Repo/VR-Storytelling-Unreal/Content/BEDROOM_BuiltData.uasset'
+[2019.04.09-03.34.53:051][349]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.04.09-03.34.54:644][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.09-03.34.54:770][524]LogSlate: Window 'GroupProjRacer - Unreal Editor' being destroyed
+[2019.04.09-03.34.54:773][524]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.04.09-03.34.54:939][525]Cmd: QUIT_EDITOR
+[2019.04.09-03.34.55:336][525]LogExit: Preparing to exit.
+[2019.04.09-03.34.55:819][525]LogExit: Editor shut down
+[2019.04.09-03.34.55:819][525]LogExit: Transaction tracking system shut down
+[2019.04.09-03.34.55:988][525]LogExit: Object subsystem successfully closed.
+[2019.04.09-03.34.56:012][525]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.04.09-03.34.56:015][525]LogD3D11RHI: Shutdown
+[2019.04.09-03.34.56:015][525]LogD3D11RHI: CleanupD3DDevice
+[2019.04.09-03.34.56:018][525]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.04.09-03.34.56:082][525]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (630)
+[2019.04.09-03.34.56:082][525]LogModuleManager: Shutting down and abandoning module Voice (628)
+[2019.04.09-03.34.56:082][525]LogModuleManager: Shutting down and abandoning module MeshBuilder (626)
+[2019.04.09-03.34.56:082][525]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (624)
+[2019.04.09-03.34.56:082][525]LogModuleManager: Shutting down and abandoning module SceneOutliner (622)
+[2019.04.09-03.34.56:082][525]LogModuleManager: Shutting down and abandoning module AddContentDialog (620)
+[2019.04.09-03.34.56:082][525]LogModuleManager: Shutting down and abandoning module WidgetCarousel (619)
+[2019.04.09-03.34.56:082][525]LogModuleManager: Shutting down and abandoning module EditorWidgets (616)
+[2019.04.09-03.34.56:082][525]LogModuleManager: Shutting down and abandoning module CollectionManager (614)
+[2019.04.09-03.34.56:082][525]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (612)
+[2019.04.09-03.34.56:082][525]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.04.09-03.34.56:082][525]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.04.09-03.34.56:082][525]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.04.09-03.34.56:082][525]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.04.09-03.34.56:082][525]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.04.09-03.34.56:082][525]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.04.09-03.34.56:082][525]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.04.09-03.34.56:082][525]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.04.09-03.34.56:082][525]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.04.09-03.34.56:082][525]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.04.09-03.34.56:082][525]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.04.09-03.34.56:082][525]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.04.09-03.34.56:082][525]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.04.09-03.34.56:082][525]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.04.09-03.34.56:083][525]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.04.09-03.34.56:183][525]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.04.09-03.34.56:184][525]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.04.09-03.34.56:184][525]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.04.09-03.34.56:184][525]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.04.09-03.34.56:184][525]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.04.09-03.34.56:184][525]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.04.09-03.34.56:184][525]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.04.09-03.34.56:184][525]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.04.09-03.34.56:184][525]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.04.09-03.34.56:184][525]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.04.09-03.34.56:184][525]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.04.09-03.34.56:184][525]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.04.09-03.34.56:184][525]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.04.09-03.34.56:184][525]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.04.09-03.34.56:184][525]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.04.09-03.34.56:184][525]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.04.09-03.34.56:184][525]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.04.09-03.34.56:184][525]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.04.09-03.34.56:185][525]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.04.09-03.34.56:185][525]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.04.09-03.34.56:185][525]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.04.09-03.34.56:185][525]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.04.09-03.34.56:185][525]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.04.09-03.34.56:240][525]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.04.09-03.34.56:240][525]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.04.09-03.34.56:240][525]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.04.09-03.34.56:240][525]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.04.09-03.34.56:240][525]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.04.09-03.34.56:240][525]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.04.09-03.34.56:240][525]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.04.09-03.34.56:240][525]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.04.09-03.34.56:240][525]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.04.09-03.34.56:240][525]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.04.09-03.34.56:240][525]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.04.09-03.34.56:240][525]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.04.09-03.34.56:240][525]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.04.09-03.34.56:240][525]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.04.09-03.34.56:240][525]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.04.09-03.34.56:240][525]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.04.09-03.34.56:240][525]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.04.09-03.34.56:240][525]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.04.09-03.34.56:240][525]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.04.09-03.34.56:240][525]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.04.09-03.34.56:240][525]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.04.09-03.34.56:241][525]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.04.09-03.34.56:241][525]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.04.09-03.34.56:241][525]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.04.09-03.34.56:241][525]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.04.09-03.34.56:241][525]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.04.09-03.34.56:241][525]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.04.09-03.34.56:241][525]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.04.09-03.34.56:241][525]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.04.09-03.34.56:241][525]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.04.09-03.34.56:241][525]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.04.09-03.34.56:241][525]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.04.09-03.34.56:243][525]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.04.09-03.34.56:325][525]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.04.09-03.34.56:325][525]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.04.09-03.34.56:325][525]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.04.09-03.34.56:325][525]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.04.09-03.34.56:325][525]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.04.09-03.34.56:325][525]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.04.09-03.34.56:325][525]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.04.09-03.34.56:325][525]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.04.09-03.34.56:325][525]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.04.09-03.34.56:325][525]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.04.09-03.34.56:325][525]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.04.09-03.34.56:325][525]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.04.09-03.34.56:325][525]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.04.09-03.34.56:325][525]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.04.09-03.34.56:325][525]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.04.09-03.34.56:325][525]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.04.09-03.34.56:325][525]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.04.09-03.34.56:330][525]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.04.09-03.34.56:331][525]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.04.09-03.34.56:331][525]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.04.09-03.34.56:331][525]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.04.09-03.34.56:331][525]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.04.09-03.34.56:331][525]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.04.09-03.34.56:331][525]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.04.09-03.34.56:331][525]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.04.09-03.34.56:331][525]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.04.09-03.34.56:331][525]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.04.09-03.34.56:331][525]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.04.09-03.34.56:331][525]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.04.09-03.34.56:331][525]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.04.09-03.34.56:331][525]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.04.09-03.34.56:331][525]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.04.09-03.34.56:331][525]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.04.09-03.34.56:331][525]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.04.09-03.34.56:331][525]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.04.09-03.34.56:331][525]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.04.09-03.34.56:331][525]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.04.09-03.34.56:331][525]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.04.09-03.34.56:331][525]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.04.09-03.34.56:331][525]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.04.09-03.34.56:331][525]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.04.09-03.34.56:332][525]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.04.09-03.34.56:332][525]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.04.09-03.34.56:332][525]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.04.09-03.34.56:332][525]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.04.09-03.34.56:332][525]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.04.09-03.34.56:332][525]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.04.09-03.34.56:332][525]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.04.09-03.34.56:332][525]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.04.09-03.34.56:332][525]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.04.09-03.34.56:332][525]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.04.09-03.34.56:332][525]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.04.09-03.34.56:332][525]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.04.09-03.34.56:332][525]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.04.09-03.34.56:332][525]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.04.09-03.34.56:332][525]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.04.09-03.34.56:332][525]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.04.09-03.34.56:332][525]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.04.09-03.34.56:333][525]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.04.09-03.34.56:434][525]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.04.09-03.34.56:535][525]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.04.09-03.34.56:535][525]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.04.09-03.34.56:535][525]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.04.09-03.34.56:535][525]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.04.09-03.34.56:535][525]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.04.09-03.34.56:535][525]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.04.09-03.34.56:535][525]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.04.09-03.34.56:535][525]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.04.09-03.34.56:535][525]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.04.09-03.34.56:535][525]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.04.09-03.34.56:535][525]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.04.09-03.34.56:537][525]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.04.09-03.34.56:538][525]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.04.09-03.34.56:538][525]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.04.09-03.34.56:538][525]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.04.09-03.34.56:538][525]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.04.09-03.34.56:538][525]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.04.09-03.34.56:538][525]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.04.09-03.34.56:538][525]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.04.09-03.34.56:541][525]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.04.09-03.34.56:548][525]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.04.09-03.34.56:548][525]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.04.09-03.34.56:548][525]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.04.09-03.34.56:548][525]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.04.09-03.34.56:548][525]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.04.09-03.34.56:548][525]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.04.09-03.34.56:548][525]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.04.09-03.34.56:548][525]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.04.09-03.34.56:548][525]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.04.09-03.34.56:548][525]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.04.09-03.34.56:548][525]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.04.09-03.34.56:548][525]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.04.09-03.34.56:548][525]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.04.09-03.34.56:548][525]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.04.09-03.34.56:548][525]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.04.09-03.34.56:548][525]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.04.09-03.34.56:549][525]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.04.09-03.34.56:549][525]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.04.09-03.34.56:549][525]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.04.09-03.34.56:549][525]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.04.09-03.34.56:554][525]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.04.09-03.34.56:554][525]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.04.09-03.34.56:554][525]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.04.09-03.34.56:554][525]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.04.09-03.34.56:554][525]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.04.09-03.34.56:554][525]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.04.09-03.34.56:554][525]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.04.09-03.34.56:554][525]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.04.09-03.34.56:554][525]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.04.09-03.34.56:554][525]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.04.09-03.34.56:554][525]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.04.09-03.34.56:554][525]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.04.09-03.34.56:554][525]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.04.09-03.34.56:554][525]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.04.09-03.34.56:554][525]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.04.09-03.34.56:554][525]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.04.09-03.34.56:554][525]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.04.09-03.34.56:554][525]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.04.09-03.34.56:646][525]LogDerivedDataCache: Shutdown
+[2019.04.09-03.34.56:647][525]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.04.09-03.34.56:647][525]LogXGEController: Cleaning working directory: C:/Users/Steven/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.09-03.34.56:647][525]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.04.09-03.34.56:647][525]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.04.09-03.34.56:647][525]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.04.09-03.34.56:647][525]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.04.09-03.34.56:647][525]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.04.09-03.34.56:647][525]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.04.09-03.34.56:647][525]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.04.09-03.34.56:647][525]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.04.09-03.34.56:647][525]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.04.09-03.34.56:647][525]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.04.09-03.34.56:647][525]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.04.09-03.34.56:647][525]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.04.09-03.34.56:647][525]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.04.09-03.34.56:647][525]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.04.09-03.34.56:647][525]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.04.09-03.34.56:647][525]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.04.09-03.34.56:647][525]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.04.09-03.34.56:648][525]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.04.09-03.34.56:648][525]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.04.09-03.34.56:648][525]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.04.09-03.34.56:648][525]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.04.09-03.34.56:648][525]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.04.09-03.34.56:649][525]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.04.09-03.34.56:649][525]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.04.09-03.34.56:649][525]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.04.09-03.34.56:649][525]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.04.09-03.34.56:654][525]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.04.09-03.34.56:654][525]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.04.09-03.34.56:654][525]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.04.09-03.34.56:654][525]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.04.09-03.34.56:654][525]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.04.09-03.34.56:654][525]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.04.09-03.34.56:654][525]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.04.09-03.34.56:654][525]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.04.09-03.34.56:654][525]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.04.09-03.34.56:654][525]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.04.09-03.34.56:654][525]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.04.09-03.34.56:654][525]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.04.09-03.34.56:654][525]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.04.09-03.34.56:654][525]LogHMD: Freeing OpenVRDLLHandle.
+[2019.04.09-03.34.56:654][525]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.04.09-03.34.56:654][525]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.04.09-03.34.56:654][525]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.04.09-03.34.56:654][525]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.04.09-03.34.56:654][525]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.04.09-03.34.56:655][525]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.04.09-03.34.56:655][525]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.04.09-03.34.56:685][525]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.04.09-03.34.56:685][525]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.04.09-03.34.56:685][525]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEF0810E9-44AE-A724-1034-C2872D8EF400%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=8cf326894ac4ff973a1b6b9e2963ec8f%7C6c53801b826a49c1b7f1b3c944e2a5ed%7C3a57214b-837c-4880-8bb3-1fab2203118e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.04.09-03.34.56:691][525]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.04.09-03.34.56:693][525]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.04.09-03.34.56:693][525]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.04.09-03.34.56:693][525]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.04.09-03.34.56:693][525]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.04.09-03.34.56:693][525]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.04.09-03.34.56:693][525]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.04.09-03.34.56:693][525]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.04.09-03.34.56:697][525]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.04.09-03.34.56:697][525]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.04.09-03.34.56:697][525]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.04.09-03.34.56:698][525]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.04.09-03.34.56:698][525]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.04.09-03.34.56:698][525]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.04.09-03.34.56:698][525]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.04.09-03.34.56:698][525]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.04.09-03.34.56:698][525]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.04.09-03.34.56:698][525]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.04.09-03.34.56:699][525]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.04.09-03.34.56:699][525]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.04.09-03.34.56:699][525]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.04.09-03.34.56:699][525]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.04.09-03.34.56:699][525]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.04.09-03.34.56:699][525]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.04.09-03.34.56:699][525]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.04.09-03.34.56:699][525]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.04.09-03.34.56:699][525]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.04.09-03.34.56:699][525]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.04.09-03.34.56:699][525]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.04.09-03.34.56:711][525]LogExit: Exiting.
+[2019.04.09-03.34.56:718][525]Log file closed, 04/08/19 23:34:56
